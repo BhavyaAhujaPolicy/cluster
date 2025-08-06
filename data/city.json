@@ -1,0 +1,8002 @@
+[
+  {
+    "CityID": 0,
+    "City": "",
+    "StateID": 99,
+    "IsActive": "0",
+    "TimeZone": null,
+    "AliasCity": ""
+  },
+  {
+    "CityID": 1,
+    "City": "Adilabad",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Adilabad"
+  },
+  {
+    "CityID": 2,
+    "City": "Anantapur",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anantapur"
+  },
+  {
+    "CityID": 3,
+    "City": "Chittoor",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chittoor"
+  },
+  {
+    "CityID": 4,
+    "City": "East Godavari",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "East Godavari"
+  },
+  {
+    "CityID": 5,
+    "City": "Guntur",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Guntur"
+  },
+  {
+    "CityID": 6,
+    "City": "Hyderabad",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hyderabad"
+  },
+  {
+    "CityID": 7,
+    "City": "Kadapa",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kadapa"
+  },
+  {
+    "CityID": 8,
+    "City": "Karimnagar",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karimnagar"
+  },
+  {
+    "CityID": 9,
+    "City": "Khammam",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khammam"
+  },
+  {
+    "CityID": 10,
+    "City": "Krishna",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Krishna"
+  },
+  {
+    "CityID": 11,
+    "City": "Kurnool",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kurnool"
+  },
+  {
+    "CityID": 12,
+    "City": "Mahbubnagar",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahbubnagar"
+  },
+  {
+    "CityID": 13,
+    "City": "Medak",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Medak"
+  },
+  {
+    "CityID": 14,
+    "City": "Nalgonda",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nalgonda"
+  },
+  {
+    "CityID": 15,
+    "City": "Nellore",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nellore"
+  },
+  {
+    "CityID": 16,
+    "City": "Nizamabad",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nizamabad"
+  },
+  {
+    "CityID": 17,
+    "City": "Prakasam",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Prakasam"
+  },
+  {
+    "CityID": 18,
+    "City": "Rangareddy",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rangareddy"
+  },
+  {
+    "CityID": 19,
+    "City": "Srikakulam",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Srikakulam"
+  },
+  {
+    "CityID": 20,
+    "City": "Visakhapatnam",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Visakhapatnam"
+  },
+  {
+    "CityID": 21,
+    "City": "Vizianagaram",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vizianagaram"
+  },
+  {
+    "CityID": 22,
+    "City": "Warangal",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Warangal"
+  },
+  {
+    "CityID": 23,
+    "City": "West Godavari",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "West Godavari"
+  },
+  {
+    "CityID": 24,
+    "City": "Andman and Nicobar",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Andman and Nicobar"
+  },
+  {
+    "CityID": 25,
+    "City": "Anjaw",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anjaw"
+  },
+  {
+    "CityID": 26,
+    "City": "Changlang",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Changlang"
+  },
+  {
+    "CityID": 27,
+    "City": "East Kameng",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "East Kameng"
+  },
+  {
+    "CityID": 28,
+    "City": "East Siang",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "East Siang"
+  },
+  {
+    "CityID": 29,
+    "City": "Itanagar",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Itanagar"
+  },
+  {
+    "CityID": 30,
+    "City": "Kurung Kumey",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kurung Kumey"
+  },
+  {
+    "CityID": 31,
+    "City": "Lohit",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lohit"
+  },
+  {
+    "CityID": 32,
+    "City": "Lower Dibang Valley",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lower Dibang Valley"
+  },
+  {
+    "CityID": 33,
+    "City": "Lower Subansiri",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lower Subansiri"
+  },
+  {
+    "CityID": 34,
+    "City": "Papum Pare",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Papum Pare"
+  },
+  {
+    "CityID": 35,
+    "City": "Tawang",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tawang"
+  },
+  {
+    "CityID": 36,
+    "City": "Tirap",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tirap"
+  },
+  {
+    "CityID": 37,
+    "City": "Upper Dibang Valley",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Upper Dibang Valley"
+  },
+  {
+    "CityID": 38,
+    "City": "Upper Siang",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Upper Siang"
+  },
+  {
+    "CityID": 39,
+    "City": "Upper Subansiri",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Upper Subansiri"
+  },
+  {
+    "CityID": 40,
+    "City": "West Kameng",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "West Kameng"
+  },
+  {
+    "CityID": 41,
+    "City": "West Siang",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "West Siang"
+  },
+  {
+    "CityID": 42,
+    "City": "Baksa",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baksa"
+  },
+  {
+    "CityID": 43,
+    "City": "Barpeta",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Barpeta"
+  },
+  {
+    "CityID": 44,
+    "City": "Bongaigaon",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bongaigaon"
+  },
+  {
+    "CityID": 45,
+    "City": "Cachar",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Cachar"
+  },
+  {
+    "CityID": 46,
+    "City": "Chirang",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chirang"
+  },
+  {
+    "CityID": 47,
+    "City": "Darrang",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Darrang"
+  },
+  {
+    "CityID": 48,
+    "City": "Dhemaji",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhemaji"
+  },
+  {
+    "CityID": 49,
+    "City": "Dhubri",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhubri"
+  },
+  {
+    "CityID": 50,
+    "City": "Dibrugarh",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dibrugarh"
+  },
+  {
+    "CityID": 51,
+    "City": "Dispur",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dispur"
+  },
+  {
+    "CityID": 52,
+    "City": "Goalpara",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Goalpara"
+  },
+  {
+    "CityID": 53,
+    "City": "Golaghat",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Golaghat"
+  },
+  {
+    "CityID": 54,
+    "City": "Guwahati",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Guwahati"
+  },
+  {
+    "CityID": 55,
+    "City": "Hailakandi",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hailakandi"
+  },
+  {
+    "CityID": 56,
+    "City": "Jorhat",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jorhat"
+  },
+  {
+    "CityID": 57,
+    "City": "Kabri Anglong",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kabri Anglong"
+  },
+  {
+    "CityID": 58,
+    "City": "Kamrup Metropolitian",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kamrup Metropolitian"
+  },
+  {
+    "CityID": 59,
+    "City": "Kamrup Rural",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kamrup Rural"
+  },
+  {
+    "CityID": 60,
+    "City": "Karimganj",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karimganj"
+  },
+  {
+    "CityID": 61,
+    "City": "Kokrajhar",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kokrajhar"
+  },
+  {
+    "CityID": 62,
+    "City": "Lakhimpur",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lakhimpur"
+  },
+  {
+    "CityID": 63,
+    "City": "Marigaon",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Marigaon"
+  },
+  {
+    "CityID": 64,
+    "City": "Nagaon",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nagaon"
+  },
+  {
+    "CityID": 65,
+    "City": "Nalbari",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nalbari"
+  },
+  {
+    "CityID": 66,
+    "City": "North Cachar Hills",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "North Cachar Hills"
+  },
+  {
+    "CityID": 67,
+    "City": "Sibsagar",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sibsagar"
+  },
+  {
+    "CityID": 68,
+    "City": "Sonitpur",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sonitpur"
+  },
+  {
+    "CityID": 69,
+    "City": "Tinsukia",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tinsukia"
+  },
+  {
+    "CityID": 70,
+    "City": "Udalguri",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Udalguri"
+  },
+  {
+    "CityID": 71,
+    "City": "Bhagalpur",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhagalpur"
+  },
+  {
+    "CityID": 72,
+    "City": "Darbhanga",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Darbhanga"
+  },
+  {
+    "CityID": 73,
+    "City": "Kosi",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kosi"
+  },
+  {
+    "CityID": 74,
+    "City": "Magadh",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Magadh"
+  },
+  {
+    "CityID": 75,
+    "City": "Munger",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Munger"
+  },
+  {
+    "CityID": 76,
+    "City": "Patna",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Patna"
+  },
+  {
+    "CityID": 77,
+    "City": "Purnia",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Purnia"
+  },
+  {
+    "CityID": 78,
+    "City": "Saran",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Saran"
+  },
+  {
+    "CityID": 79,
+    "City": "Tirhut",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tirhut"
+  },
+  {
+    "CityID": 80,
+    "City": "Chandigarh",
+    "StateID": 6,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chandigarh"
+  },
+  {
+    "CityID": 81,
+    "City": "Bastar",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bastar"
+  },
+  {
+    "CityID": 82,
+    "City": "Bijapur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bijapur"
+  },
+  {
+    "CityID": 83,
+    "City": "Bilaspur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bilaspur"
+  },
+  {
+    "CityID": 84,
+    "City": "Dantewada",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dantewada"
+  },
+  {
+    "CityID": 85,
+    "City": "Dhamtari",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhamtari"
+  },
+  {
+    "CityID": 86,
+    "City": "Durg",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Durg"
+  },
+  {
+    "CityID": 87,
+    "City": "Jashpur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jashpur"
+  },
+  {
+    "CityID": 88,
+    "City": "Janigir - Champa",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Janigir - Champa"
+  },
+  {
+    "CityID": 89,
+    "City": "Korba",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Korba"
+  },
+  {
+    "CityID": 90,
+    "City": "Koriya",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Koriya"
+  },
+  {
+    "CityID": 91,
+    "City": "Kanker",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kanker"
+  },
+  {
+    "CityID": 92,
+    "City": "Kawardha",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kawardha"
+  },
+  {
+    "CityID": 93,
+    "City": "Mahasamund",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahasamund"
+  },
+  {
+    "CityID": 94,
+    "City": "Narayanpur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Narayanpur"
+  },
+  {
+    "CityID": 95,
+    "City": "Raigarh",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Raigarh"
+  },
+  {
+    "CityID": 96,
+    "City": "Rajnandgaon",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajnandgaon"
+  },
+  {
+    "CityID": 97,
+    "City": "Raipur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Raipur"
+  },
+  {
+    "CityID": 98,
+    "City": "Surguja",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Surguja"
+  },
+  {
+    "CityID": 99,
+    "City": "Dadra & nagar Haveli",
+    "StateID": 8,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dadra & nagar Haveli"
+  },
+  {
+    "CityID": 100,
+    "City": "Daman & Diu",
+    "StateID": 9,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Daman & Diu"
+  },
+  {
+    "CityID": 101,
+    "City": "Panaji",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panaji"
+  },
+  {
+    "CityID": 102,
+    "City": "Margoa",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Margoa"
+  },
+  {
+    "CityID": 103,
+    "City": "Ahmedabad",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ahmedabad"
+  },
+  {
+    "CityID": 104,
+    "City": "Amareli",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Amareli"
+  },
+  {
+    "CityID": 105,
+    "City": "Anand",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anand"
+  },
+  {
+    "CityID": 106,
+    "City": "Banaskhantha",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banaskhantha"
+  },
+  {
+    "CityID": 107,
+    "City": "Bharuch",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bharuch"
+  },
+  {
+    "CityID": 108,
+    "City": "Bhavnagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhavnagar"
+  },
+  {
+    "CityID": 109,
+    "City": "Daang",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Daang"
+  },
+  {
+    "CityID": 110,
+    "City": "Dahod",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dahod"
+  },
+  {
+    "CityID": 111,
+    "City": "Gandhinagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gandhinagar"
+  },
+  {
+    "CityID": 112,
+    "City": "Jamnagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jamnagar"
+  },
+  {
+    "CityID": 113,
+    "City": "Junagadh",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Junagadh"
+  },
+  {
+    "CityID": 114,
+    "City": "Kheda",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kheda"
+  },
+  {
+    "CityID": 115,
+    "City": "KACHCHH",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kutch"
+  },
+  {
+    "CityID": 116,
+    "City": "Mehsana",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mehsana"
+  },
+  {
+    "CityID": 117,
+    "City": "Narmada",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Narmada"
+  },
+  {
+    "CityID": 118,
+    "City": "Navsari",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Navsari"
+  },
+  {
+    "CityID": 119,
+    "City": "Panchmahal",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panchmahal"
+  },
+  {
+    "CityID": 120,
+    "City": "Patan",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Patan"
+  },
+  {
+    "CityID": 121,
+    "City": "Porbandar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Porbandar"
+  },
+  {
+    "CityID": 122,
+    "City": "Rajkot",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajkot"
+  },
+  {
+    "CityID": 123,
+    "City": "Sabarkantha",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sabarkantha"
+  },
+  {
+    "CityID": 124,
+    "City": "Surat",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Surat"
+  },
+  {
+    "CityID": 125,
+    "City": "Surendranagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Surendranagar"
+  },
+  {
+    "CityID": 126,
+    "City": "Vadodara",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vadodara"
+  },
+  {
+    "CityID": 127,
+    "City": "Valsad",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Valsad"
+  },
+  {
+    "CityID": 128,
+    "City": "Ambala",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ambala"
+  },
+  {
+    "CityID": 129,
+    "City": "Bhiwani",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhiwani"
+  },
+  {
+    "CityID": 131,
+    "City": "Fatehabad",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Fatehabad"
+  },
+  {
+    "CityID": 133,
+    "City": "Hisar",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hisar"
+  },
+  {
+    "CityID": 134,
+    "City": "Jhajjar",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jhajjar"
+  },
+  {
+    "CityID": 135,
+    "City": "Jind",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jind"
+  },
+  {
+    "CityID": 136,
+    "City": "Kaithal",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kaithal"
+  },
+  {
+    "CityID": 137,
+    "City": "Karnal",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karnal"
+  },
+  {
+    "CityID": 138,
+    "City": "Kurukshetra",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kurukshetra"
+  },
+  {
+    "CityID": 139,
+    "City": "Mahendragarh",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahendragarh"
+  },
+  {
+    "CityID": 140,
+    "City": "Mewat",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mewat"
+  },
+  {
+    "CityID": 141,
+    "City": "Panchkula",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panchkula"
+  },
+  {
+    "CityID": 142,
+    "City": "Panipat",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panipat"
+  },
+  {
+    "CityID": 143,
+    "City": "Rewari",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rewari"
+  },
+  {
+    "CityID": 144,
+    "City": "Rohtak",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rohtak"
+  },
+  {
+    "CityID": 145,
+    "City": "Sirsa",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sirsa"
+  },
+  {
+    "CityID": 146,
+    "City": "Sonipat",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sonipat"
+  },
+  {
+    "CityID": 147,
+    "City": "Yamuna Nagar",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Yamuna Nagar"
+  },
+  {
+    "CityID": 148,
+    "City": "Bilaspur",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bilaspur"
+  },
+  {
+    "CityID": 149,
+    "City": "Chamba",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chamba"
+  },
+  {
+    "CityID": 150,
+    "City": "Hamirpur",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hamirpur"
+  },
+  {
+    "CityID": 151,
+    "City": "Kangra",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kangra"
+  },
+  {
+    "CityID": 152,
+    "City": "Kinnaur",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kinnaur"
+  },
+  {
+    "CityID": 153,
+    "City": "Kullu",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kullu"
+  },
+  {
+    "CityID": 154,
+    "City": "Lahul and Spiti",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lahul and Spiti"
+  },
+  {
+    "CityID": 155,
+    "City": "Mandi",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mandi"
+  },
+  {
+    "CityID": 156,
+    "City": "Shimla",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shimla"
+  },
+  {
+    "CityID": 157,
+    "City": "Sirmaur",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sirmaur"
+  },
+  {
+    "CityID": 158,
+    "City": "Solan",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Solan"
+  },
+  {
+    "CityID": 159,
+    "City": "Una",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Una"
+  },
+  {
+    "CityID": 160,
+    "City": "Anantnag",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anantnag"
+  },
+  {
+    "CityID": 161,
+    "City": "Bandipore",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bandipore"
+  },
+  {
+    "CityID": 162,
+    "City": "Baramulla",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baramulla"
+  },
+  {
+    "CityID": 163,
+    "City": "Budgam",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Budgam"
+  },
+  {
+    "CityID": 164,
+    "City": "Doda",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Doda"
+  },
+  {
+    "CityID": 165,
+    "City": "Ganderbal",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ganderbal"
+  },
+  {
+    "CityID": 166,
+    "City": "Jammu",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jammu"
+  },
+  {
+    "CityID": 167,
+    "City": "Kargil",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kargil"
+  },
+  {
+    "CityID": 168,
+    "City": "Kathua",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kathua"
+  },
+  {
+    "CityID": 169,
+    "City": "Kishtwar",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kishtwar"
+  },
+  {
+    "CityID": 170,
+    "City": "Kulgam",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kulgam"
+  },
+  {
+    "CityID": 171,
+    "City": "Kupwara",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kupwara"
+  },
+  {
+    "CityID": 172,
+    "City": "Leh",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Leh"
+  },
+  {
+    "CityID": 173,
+    "City": "Poonch",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Poonch"
+  },
+  {
+    "CityID": 174,
+    "City": "Pulwama",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pulwama"
+  },
+  {
+    "CityID": 175,
+    "City": "Rajouri",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajouri"
+  },
+  {
+    "CityID": 176,
+    "City": "Ramban",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ramban"
+  },
+  {
+    "CityID": 177,
+    "City": "Reasi",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Reasi"
+  },
+  {
+    "CityID": 178,
+    "City": "Samba",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Samba"
+  },
+  {
+    "CityID": 179,
+    "City": "Shopian",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shopian"
+  },
+  {
+    "CityID": 180,
+    "City": "Srinagar",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Srinagar"
+  },
+  {
+    "CityID": 181,
+    "City": "Udhampur",
+    "StateID": 14,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Udhampur"
+  },
+  {
+    "CityID": 182,
+    "City": "Bokaro",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bokaro"
+  },
+  {
+    "CityID": 183,
+    "City": "Chatra",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chatra"
+  },
+  {
+    "CityID": 184,
+    "City": "Deoghar",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Deoghar"
+  },
+  {
+    "CityID": 185,
+    "City": "Dhanbad",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhanbad"
+  },
+  {
+    "CityID": 186,
+    "City": "Dumka",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dumka"
+  },
+  {
+    "CityID": 187,
+    "City": "East Singhbhum",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "East Singhbhum"
+  },
+  {
+    "CityID": 188,
+    "City": "Garhwa",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Garhwa"
+  },
+  {
+    "CityID": 189,
+    "City": "Giridih",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Giridih"
+  },
+  {
+    "CityID": 190,
+    "City": "Godda",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Godda"
+  },
+  {
+    "CityID": 191,
+    "City": "Gumla",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gumla"
+  },
+  {
+    "CityID": 192,
+    "City": "Hazaribagh",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hazaribagh"
+  },
+  {
+    "CityID": 193,
+    "City": "Jamtara",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jamtara"
+  },
+  {
+    "CityID": 194,
+    "City": "Khunti",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khunti"
+  },
+  {
+    "CityID": 195,
+    "City": "Koderma",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Koderma"
+  },
+  {
+    "CityID": 196,
+    "City": "Latehar",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Latehar"
+  },
+  {
+    "CityID": 197,
+    "City": "Lohardaga",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lohardaga"
+  },
+  {
+    "CityID": 198,
+    "City": "Pakur",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pakur"
+  },
+  {
+    "CityID": 199,
+    "City": "Palamu",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Palamu"
+  },
+  {
+    "CityID": 200,
+    "City": "Ramgarh",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ramgarh"
+  },
+  {
+    "CityID": 201,
+    "City": "Ranchi",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ranchi"
+  },
+  {
+    "CityID": 202,
+    "City": "Sahebganj",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sahebganj"
+  },
+  {
+    "CityID": 203,
+    "City": "Seraikela Kharsawan",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Seraikela Kharsawan"
+  },
+  {
+    "CityID": 204,
+    "City": "Simdega",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Simdega"
+  },
+  {
+    "CityID": 205,
+    "City": "West Singhbhum",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "West Singhbhum"
+  },
+  {
+    "CityID": 206,
+    "City": "Bagalkote",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bagalkote"
+  },
+  {
+    "CityID": 207,
+    "City": "Bengaluru",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bengaluru"
+  },
+  {
+    "CityID": 208,
+    "City": "Belgaum",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Belgaum"
+  },
+  {
+    "CityID": 209,
+    "City": "Bellary",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bellary"
+  },
+  {
+    "CityID": 210,
+    "City": "Bidar",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bidar"
+  },
+  {
+    "CityID": 211,
+    "City": "Bijapur",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bijapur"
+  },
+  {
+    "CityID": 212,
+    "City": "Chamarajanagar",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chamarajanagar"
+  },
+  {
+    "CityID": 213,
+    "City": "Chikkaballapur",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chikkaballapur"
+  },
+  {
+    "CityID": 214,
+    "City": "Chikkamagaluru",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chikkamagaluru"
+  },
+  {
+    "CityID": 215,
+    "City": "Chitradurga",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chitradurga"
+  },
+  {
+    "CityID": 216,
+    "City": "Dakshina Kannada",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dakshina Kannada"
+  },
+  {
+    "CityID": 217,
+    "City": "Davanagere",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Davanagere"
+  },
+  {
+    "CityID": 218,
+    "City": "Dharwad",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dharwad"
+  },
+  {
+    "CityID": 219,
+    "City": "Gadag",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gadag"
+  },
+  {
+    "CityID": 220,
+    "City": "Gulbarga",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gulbarga"
+  },
+  {
+    "CityID": 221,
+    "City": "Hassan",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hassan"
+  },
+  {
+    "CityID": 222,
+    "City": "Haveri",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Haveri"
+  },
+  {
+    "CityID": 223,
+    "City": "Kodagu",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kodagu"
+  },
+  {
+    "CityID": 224,
+    "City": "Kolar",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kolar"
+  },
+  {
+    "CityID": 225,
+    "City": "Koppal",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Koppal"
+  },
+  {
+    "CityID": 226,
+    "City": "Mandya",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mandya"
+  },
+  {
+    "CityID": 227,
+    "City": "Mysore",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mysore"
+  },
+  {
+    "CityID": 228,
+    "City": "Raichur",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Raichur"
+  },
+  {
+    "CityID": 229,
+    "City": "Ramanagara",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ramanagara"
+  },
+  {
+    "CityID": 230,
+    "City": "Shimoga",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shimoga"
+  },
+  {
+    "CityID": 231,
+    "City": "Tumkur",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tumkur"
+  },
+  {
+    "CityID": 232,
+    "City": "Udupi and Uttara Kannada",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Udupi and Uttara Kannada"
+  },
+  {
+    "CityID": 233,
+    "City": "Malabar",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Malabar"
+  },
+  {
+    "CityID": 234,
+    "City": "Kochi",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kochi"
+  },
+  {
+    "CityID": 235,
+    "City": "Travancore",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Travancore"
+  },
+  {
+    "CityID": 236,
+    "City": "Lakshadweep",
+    "StateID": 18,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lakshadweep"
+  },
+  {
+    "CityID": 237,
+    "City": "Anuppur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anuppur"
+  },
+  {
+    "CityID": 238,
+    "City": "Ashoknagar",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ashoknagar"
+  },
+  {
+    "CityID": 239,
+    "City": "Balaghat",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Balaghat"
+  },
+  {
+    "CityID": 240,
+    "City": "Barwani",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Barwani"
+  },
+  {
+    "CityID": 241,
+    "City": "Betul",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Betul"
+  },
+  {
+    "CityID": 242,
+    "City": "Bhind",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhind"
+  },
+  {
+    "CityID": 243,
+    "City": "Bhopal",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhopal"
+  },
+  {
+    "CityID": 244,
+    "City": "Burhanpur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Burhanpur"
+  },
+  {
+    "CityID": 245,
+    "City": "Chhatarpur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chhatarpur"
+  },
+  {
+    "CityID": 246,
+    "City": "Chhindwara",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chhindwara"
+  },
+  {
+    "CityID": 247,
+    "City": "Damoh",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Damoh"
+  },
+  {
+    "CityID": 248,
+    "City": "Datia",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Datia"
+  },
+  {
+    "CityID": 249,
+    "City": "Dewas",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dewas"
+  },
+  {
+    "CityID": 250,
+    "City": "Dhar",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhar"
+  },
+  {
+    "CityID": 251,
+    "City": "Dindori",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dindori"
+  },
+  {
+    "CityID": 252,
+    "City": "Guna",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Guna"
+  },
+  {
+    "CityID": 253,
+    "City": "Gwalior",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gwalior"
+  },
+  {
+    "CityID": 254,
+    "City": "Harda",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Harda"
+  },
+  {
+    "CityID": 255,
+    "City": "Hoshangabad",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hoshangabad"
+  },
+  {
+    "CityID": 256,
+    "City": "Indore",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Indore"
+  },
+  {
+    "CityID": 257,
+    "City": "Jabalpur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jabalpur"
+  },
+  {
+    "CityID": 258,
+    "City": "Jhabua",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jhabua"
+  },
+  {
+    "CityID": 259,
+    "City": "Katni",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Katni"
+  },
+  {
+    "CityID": 260,
+    "City": "Khandwa",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khandwa"
+  },
+  {
+    "CityID": 261,
+    "City": "Khargone",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khargone"
+  },
+  {
+    "CityID": 262,
+    "City": "Mandla",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mandla"
+  },
+  {
+    "CityID": 263,
+    "City": "Mandsaur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mandsaur"
+  },
+  {
+    "CityID": 264,
+    "City": "Morena",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Morena"
+  },
+  {
+    "CityID": 265,
+    "City": "Narsinghpur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Narsinghpur"
+  },
+  {
+    "CityID": 266,
+    "City": "Neemuch",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Neemuch"
+  },
+  {
+    "CityID": 267,
+    "City": "Panna",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panna"
+  },
+  {
+    "CityID": 268,
+    "City": "Raisen",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Raisen"
+  },
+  {
+    "CityID": 269,
+    "City": "Rajgarh",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajgarh"
+  },
+  {
+    "CityID": 270,
+    "City": "Ratlam",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ratlam"
+  },
+  {
+    "CityID": 271,
+    "City": "Rewa",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rewa"
+  },
+  {
+    "CityID": 272,
+    "City": "Sagar",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sagar"
+  },
+  {
+    "CityID": 273,
+    "City": "Satna",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Satna"
+  },
+  {
+    "CityID": 274,
+    "City": "Sehore",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sehore"
+  },
+  {
+    "CityID": 275,
+    "City": "Seoni",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Seoni"
+  },
+  {
+    "CityID": 276,
+    "City": "Shahdol",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shahdol"
+  },
+  {
+    "CityID": 277,
+    "City": "Shajapur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shajapur"
+  },
+  {
+    "CityID": 278,
+    "City": "Sheopur",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sheopur"
+  },
+  {
+    "CityID": 279,
+    "City": "Shivpuri",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shivpuri"
+  },
+  {
+    "CityID": 280,
+    "City": "Sidhi",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sidhi"
+  },
+  {
+    "CityID": 281,
+    "City": "Tikamgarh",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tikamgarh"
+  },
+  {
+    "CityID": 282,
+    "City": "Ujjain",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ujjain"
+  },
+  {
+    "CityID": 283,
+    "City": "Umaria",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Umaria"
+  },
+  {
+    "CityID": 284,
+    "City": "Vidisha",
+    "StateID": 19,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vidisha"
+  },
+  {
+    "CityID": 285,
+    "City": "Ahmednagar",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ahmednagar"
+  },
+  {
+    "CityID": 286,
+    "City": "Akola",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Akola"
+  },
+  {
+    "CityID": 287,
+    "City": "Amravati",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Amravati"
+  },
+  {
+    "CityID": 288,
+    "City": "Aurangabad",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Aurangabad"
+  },
+  {
+    "CityID": 290,
+    "City": "Beed",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Beed"
+  },
+  {
+    "CityID": 291,
+    "City": "Bhandara",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhandara"
+  },
+  {
+    "CityID": 292,
+    "City": "Buldhana",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Buldhana"
+  },
+  {
+    "CityID": 293,
+    "City": "Chandrapur",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chandrapur"
+  },
+  {
+    "CityID": 294,
+    "City": "Dhule",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhule"
+  },
+  {
+    "CityID": 295,
+    "City": "Gadchiroli",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gadchiroli"
+  },
+  {
+    "CityID": 296,
+    "City": "Gondia",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gondia"
+  },
+  {
+    "CityID": 297,
+    "City": "Hingoli",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hingoli"
+  },
+  {
+    "CityID": 298,
+    "City": "Jalgaon",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jalgaon"
+  },
+  {
+    "CityID": 299,
+    "City": "Jalna",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jalna"
+  },
+  {
+    "CityID": 300,
+    "City": "Kolhapur",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kolhapur"
+  },
+  {
+    "CityID": 301,
+    "City": "Latur",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Latur"
+  },
+  {
+    "CityID": 302,
+    "City": "Mumbai",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mumbai"
+  },
+  {
+    "CityID": 303,
+    "City": "Nagpur",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nagpur"
+  },
+  {
+    "CityID": 304,
+    "City": "Nanded",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nanded"
+  },
+  {
+    "CityID": 305,
+    "City": "Nandurbar",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nandurbar"
+  },
+  {
+    "CityID": 306,
+    "City": "Nashik",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nashik"
+  },
+  {
+    "CityID": 307,
+    "City": "Osmanabad",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Osmanabad"
+  },
+  {
+    "CityID": 308,
+    "City": "Parbhani",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Parbhani"
+  },
+  {
+    "CityID": 309,
+    "City": "Pune",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pune"
+  },
+  {
+    "CityID": 310,
+    "City": "Raigad",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Raigad"
+  },
+  {
+    "CityID": 311,
+    "City": "Ratnagiri",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ratnagiri"
+  },
+  {
+    "CityID": 312,
+    "City": "Sangli",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sangli"
+  },
+  {
+    "CityID": 313,
+    "City": "Satara",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Satara"
+  },
+  {
+    "CityID": 314,
+    "City": "Sindhudurg",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sindhudurg"
+  },
+  {
+    "CityID": 315,
+    "City": "Solapur",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Solapur"
+  },
+  {
+    "CityID": 316,
+    "City": "Thane",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thane"
+  },
+  {
+    "CityID": 317,
+    "City": "Wardha",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Wardha"
+  },
+  {
+    "CityID": 318,
+    "City": "Washim",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Washim"
+  },
+  {
+    "CityID": 319,
+    "City": "Yavatmal",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Yavatmal"
+  },
+  {
+    "CityID": 320,
+    "City": "Bishnupur",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bishnupur"
+  },
+  {
+    "CityID": 321,
+    "City": "Chandel",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chandel"
+  },
+  {
+    "CityID": 322,
+    "City": "Churachandpur",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Churachandpur"
+  },
+  {
+    "CityID": 323,
+    "City": "Imphal East",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Imphal East"
+  },
+  {
+    "CityID": 324,
+    "City": "Imphal West",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Imphal West"
+  },
+  {
+    "CityID": 325,
+    "City": "Senapati",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Senapati"
+  },
+  {
+    "CityID": 326,
+    "City": "Tamenglong",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tamenglong"
+  },
+  {
+    "CityID": 327,
+    "City": "Thoubal",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thoubal"
+  },
+  {
+    "CityID": 328,
+    "City": "Ukhrul",
+    "StateID": 21,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ukhrul"
+  },
+  {
+    "CityID": 329,
+    "City": "East Garo Hills",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "East Garo Hills"
+  },
+  {
+    "CityID": 330,
+    "City": "East Khasi Hills",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "East Khasi Hills"
+  },
+  {
+    "CityID": 331,
+    "City": "Jaintia Hills",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jaintia Hills"
+  },
+  {
+    "CityID": 332,
+    "City": "Ri-Bhoi",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ri-Bhoi"
+  },
+  {
+    "CityID": 333,
+    "City": "Shilong",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shilong"
+  },
+  {
+    "CityID": 334,
+    "City": "South Garo Hills",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "South Garo Hills"
+  },
+  {
+    "CityID": 335,
+    "City": "West Garo Hills",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "West Garo Hills"
+  },
+  {
+    "CityID": 336,
+    "City": "West Khasi Hills",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "West Khasi Hills"
+  },
+  {
+    "CityID": 337,
+    "City": "Aizawl",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Aizawl"
+  },
+  {
+    "CityID": 338,
+    "City": "Champhai",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Champhai"
+  },
+  {
+    "CityID": 339,
+    "City": "Kolasib",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kolasib"
+  },
+  {
+    "CityID": 340,
+    "City": "Lawngtlai",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lawngtlai"
+  },
+  {
+    "CityID": 341,
+    "City": "Lunglei",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lunglei"
+  },
+  {
+    "CityID": 342,
+    "City": "Mamit",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mamit"
+  },
+  {
+    "CityID": 343,
+    "City": "Saiha",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Saiha"
+  },
+  {
+    "CityID": 344,
+    "City": "Serchhip",
+    "StateID": 23,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Serchhip"
+  },
+  {
+    "CityID": 345,
+    "City": "Dimapur",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dimapur"
+  },
+  {
+    "CityID": 346,
+    "City": "Kiphire",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kiphire"
+  },
+  {
+    "CityID": 347,
+    "City": "Kohima",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kohima"
+  },
+  {
+    "CityID": 348,
+    "City": "Longleng",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Longleng"
+  },
+  {
+    "CityID": 349,
+    "City": "Mokokchung",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mokokchung"
+  },
+  {
+    "CityID": 350,
+    "City": "Mon",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mon"
+  },
+  {
+    "CityID": 351,
+    "City": "Peren",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Peren"
+  },
+  {
+    "CityID": 352,
+    "City": "Phek",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Phek"
+  },
+  {
+    "CityID": 353,
+    "City": "Tuensang",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tuensang"
+  },
+  {
+    "CityID": 354,
+    "City": "Wokha",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Wokha"
+  },
+  {
+    "CityID": 355,
+    "City": "Zunheboto",
+    "StateID": 24,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Zunheboto"
+  },
+  {
+    "CityID": 356,
+    "City": "Angul",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Angul"
+  },
+  {
+    "CityID": 357,
+    "City": "Baleswar",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baleswar"
+  },
+  {
+    "CityID": 358,
+    "City": "Bargarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bargarh"
+  },
+  {
+    "CityID": 359,
+    "City": "Bhadrak",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhadrak"
+  },
+  {
+    "CityID": 360,
+    "City": "Bhubaneswar",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhubaneswar"
+  },
+  {
+    "CityID": 361,
+    "City": "Bolangir",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bolangir"
+  },
+  {
+    "CityID": 362,
+    "City": "Boudh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Boudh"
+  },
+  {
+    "CityID": 363,
+    "City": "Cuttack",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Cuttack"
+  },
+  {
+    "CityID": 364,
+    "City": "Deogarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Deogarh"
+  },
+  {
+    "CityID": 365,
+    "City": "Dhenkanal",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhenkanal"
+  },
+  {
+    "CityID": 366,
+    "City": "Gajapati",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gajapati"
+  },
+  {
+    "CityID": 367,
+    "City": "Ganjam",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ganjam"
+  },
+  {
+    "CityID": 368,
+    "City": "Jagatsinghpur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jagatsinghpur"
+  },
+  {
+    "CityID": 369,
+    "City": "Jajapur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jajapur"
+  },
+  {
+    "CityID": 370,
+    "City": "Jharsuguda",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jharsuguda"
+  },
+  {
+    "CityID": 371,
+    "City": "Kalahandi",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kalahandi"
+  },
+  {
+    "CityID": 372,
+    "City": "Kandhamal",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kandhamal"
+  },
+  {
+    "CityID": 373,
+    "City": "Kendrapara",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kendrapara"
+  },
+  {
+    "CityID": 374,
+    "City": "Kendujhar",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kendujhar"
+  },
+  {
+    "CityID": 375,
+    "City": "Khurdha",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khurdha"
+  },
+  {
+    "CityID": 376,
+    "City": "Koraput",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Koraput"
+  },
+  {
+    "CityID": 377,
+    "City": "Malkangiri",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Malkangiri"
+  },
+  {
+    "CityID": 378,
+    "City": "Mayurbhanj",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mayurbhanj"
+  },
+  {
+    "CityID": 379,
+    "City": "Nabarangpur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nabarangpur"
+  },
+  {
+    "CityID": 380,
+    "City": "Nayagarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nayagarh"
+  },
+  {
+    "CityID": 381,
+    "City": "Nuapada",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nuapada"
+  },
+  {
+    "CityID": 382,
+    "City": "Puri",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Puri"
+  },
+  {
+    "CityID": 383,
+    "City": "Rayagada",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rayagada"
+  },
+  {
+    "CityID": 384,
+    "City": "Sambalpur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sambalpur"
+  },
+  {
+    "CityID": 385,
+    "City": "Sonepur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sonepur"
+  },
+  {
+    "CityID": 386,
+    "City": "Sundargarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sundargarh"
+  },
+  {
+    "CityID": 387,
+    "City": "Pondicherry",
+    "StateID": 26,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pondicherry"
+  },
+  {
+    "CityID": 388,
+    "City": "Amritsar",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Amritsar"
+  },
+  {
+    "CityID": 389,
+    "City": "Barnala",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Barnala"
+  },
+  {
+    "CityID": 390,
+    "City": "Bathinda",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bathinda"
+  },
+  {
+    "CityID": 391,
+    "City": "Faridkot",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Faridkot"
+  },
+  {
+    "CityID": 392,
+    "City": "Fatehgarh Sahib",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Fatehgarh Sahib"
+  },
+  {
+    "CityID": 393,
+    "City": "Firozpur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Firozpur"
+  },
+  {
+    "CityID": 394,
+    "City": "Gurdaspur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gurdaspur"
+  },
+  {
+    "CityID": 395,
+    "City": "Hoshiarpur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hoshiarpur"
+  },
+  {
+    "CityID": 396,
+    "City": "Jalandhar",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jalandhar"
+  },
+  {
+    "CityID": 397,
+    "City": "Kapurthala",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kapurthala"
+  },
+  {
+    "CityID": 398,
+    "City": "Ludhiana",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ludhiana"
+  },
+  {
+    "CityID": 399,
+    "City": "Mansa",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mansa"
+  },
+  {
+    "CityID": 400,
+    "City": "Moga",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Moga"
+  },
+  {
+    "CityID": 401,
+    "City": "Mohali",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mohali"
+  },
+  {
+    "CityID": 402,
+    "City": "Muktsar",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Muktsar"
+  },
+  {
+    "CityID": 403,
+    "City": "Nawanshahr",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nawanshahr"
+  },
+  {
+    "CityID": 404,
+    "City": "Patiala",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Patiala"
+  },
+  {
+    "CityID": 405,
+    "City": "Rupnagar",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rupnagar"
+  },
+  {
+    "CityID": 406,
+    "City": "Sangrur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sangrur"
+  },
+  {
+    "CityID": 407,
+    "City": "Tarn Taran",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tarn Taran"
+  },
+  {
+    "CityID": 408,
+    "City": "Ajmer",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ajmer"
+  },
+  {
+    "CityID": 409,
+    "City": "Bharatpur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bharatpur"
+  },
+  {
+    "CityID": 410,
+    "City": "Bikaner",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bikaner"
+  },
+  {
+    "CityID": 411,
+    "City": "Jaipur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jaipur"
+  },
+  {
+    "CityID": 412,
+    "City": "Jodhpur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jodhpur"
+  },
+  {
+    "CityID": 413,
+    "City": "Kota",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kota"
+  },
+  {
+    "CityID": 414,
+    "City": "Udaipur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Udaipur"
+  },
+  {
+    "CityID": 415,
+    "City": "Gangtok",
+    "StateID": 29,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gangtok"
+  },
+  {
+    "CityID": 416,
+    "City": "Geyzing",
+    "StateID": 29,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Geyzing"
+  },
+  {
+    "CityID": 417,
+    "City": "Mangan",
+    "StateID": 29,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mangan"
+  },
+  {
+    "CityID": 418,
+    "City": "Namchi",
+    "StateID": 29,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Namchi"
+  },
+  {
+    "CityID": 419,
+    "City": "Ariyalur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ariyalur"
+  },
+  {
+    "CityID": 420,
+    "City": "Chennai",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chennai"
+  },
+  {
+    "CityID": 421,
+    "City": "Coimbatore",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Coimbatore"
+  },
+  {
+    "CityID": 422,
+    "City": "Cuddalore",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Cuddalore"
+  },
+  {
+    "CityID": 423,
+    "City": "Dharmapuri",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dharmapuri"
+  },
+  {
+    "CityID": 424,
+    "City": "Dindigul",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dindigul"
+  },
+  {
+    "CityID": 425,
+    "City": "Erode",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Erode"
+  },
+  {
+    "CityID": 426,
+    "City": "Kanchipuram",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kanchipuram"
+  },
+  {
+    "CityID": 427,
+    "City": "Kanyakumari",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kanyakumari"
+  },
+  {
+    "CityID": 428,
+    "City": "Karur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karur"
+  },
+  {
+    "CityID": 429,
+    "City": "Krishnagiri",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Krishnagiri"
+  },
+  {
+    "CityID": 430,
+    "City": "Madurai",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Madurai"
+  },
+  {
+    "CityID": 431,
+    "City": "Nagapattinam",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nagapattinam"
+  },
+  {
+    "CityID": 432,
+    "City": "Namakkal",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Namakkal"
+  },
+  {
+    "CityID": 433,
+    "City": "Nilgiris",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nilgiris"
+  },
+  {
+    "CityID": 434,
+    "City": "Perambalur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Perambalur"
+  },
+  {
+    "CityID": 435,
+    "City": "Pudukkottai",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pudukkottai"
+  },
+  {
+    "CityID": 436,
+    "City": "Ramanathapuram",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ramanathapuram"
+  },
+  {
+    "CityID": 437,
+    "City": "Salem",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Salem"
+  },
+  {
+    "CityID": 438,
+    "City": "Sivagangai",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sivagangai"
+  },
+  {
+    "CityID": 439,
+    "City": "Thanjavur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thanjavur"
+  },
+  {
+    "CityID": 440,
+    "City": "Theni",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Theni"
+  },
+  {
+    "CityID": 441,
+    "City": "Thoothukudi",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thoothukudi"
+  },
+  {
+    "CityID": 442,
+    "City": "Tiruchirapalli",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tiruchirapalli"
+  },
+  {
+    "CityID": 443,
+    "City": "Tirunelveli",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tirunelveli"
+  },
+  {
+    "CityID": 444,
+    "City": "Tiruvallur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tiruvallur"
+  },
+  {
+    "CityID": 445,
+    "City": "Tiruvannamalai",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tiruvannamalai"
+  },
+  {
+    "CityID": 446,
+    "City": "Tiruvarur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tiruvarur"
+  },
+  {
+    "CityID": 447,
+    "City": "Vellore",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vellore"
+  },
+  {
+    "CityID": 448,
+    "City": "Viluppuram",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Viluppuram"
+  },
+  {
+    "CityID": 449,
+    "City": "Virudhunagar",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Virudhunagar"
+  },
+  {
+    "CityID": 450,
+    "City": "Agartala",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Agartala"
+  },
+  {
+    "CityID": 451,
+    "City": "Ambassa",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ambassa"
+  },
+  {
+    "CityID": 452,
+    "City": "Dhalai",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dhalai"
+  },
+  {
+    "CityID": 453,
+    "City": "Kailashahar",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kailashahar"
+  },
+  {
+    "CityID": 454,
+    "City": "Udaipur",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Udaipur"
+  },
+  {
+    "CityID": 455,
+    "City": "Agra",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Agra"
+  },
+  {
+    "CityID": 456,
+    "City": "Aligarh",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Aligarh"
+  },
+  {
+    "CityID": 457,
+    "City": "Allahabad",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Allahabad"
+  },
+  {
+    "CityID": 458,
+    "City": "Ambedkar Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ambedkar Nagar"
+  },
+  {
+    "CityID": 459,
+    "City": "Auraiya",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Auraiya"
+  },
+  {
+    "CityID": 460,
+    "City": "Azamgarh",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Azamgarh"
+  },
+  {
+    "CityID": 461,
+    "City": "Badaun",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Badaun"
+  },
+  {
+    "CityID": 462,
+    "City": "Baghpat",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baghpat"
+  },
+  {
+    "CityID": 463,
+    "City": "Bahraich",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bahraich"
+  },
+  {
+    "CityID": 464,
+    "City": "Ballia",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ballia"
+  },
+  {
+    "CityID": 465,
+    "City": "Balrampur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Balrampur"
+  },
+  {
+    "CityID": 466,
+    "City": "Banda",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banda"
+  },
+  {
+    "CityID": 467,
+    "City": "Barabanki",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Barabanki"
+  },
+  {
+    "CityID": 468,
+    "City": "Bareilly",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bareilly"
+  },
+  {
+    "CityID": 469,
+    "City": "Basti",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Basti"
+  },
+  {
+    "CityID": 470,
+    "City": "Bijnor",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bijnor"
+  },
+  {
+    "CityID": 471,
+    "City": "Bulandshahr",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bulandshahr"
+  },
+  {
+    "CityID": 472,
+    "City": "Chandauli",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chandauli"
+  },
+  {
+    "CityID": 473,
+    "City": "Chitrakoot",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chitrakoot"
+  },
+  {
+    "CityID": 474,
+    "City": "Deoria",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Deoria"
+  },
+  {
+    "CityID": 475,
+    "City": "Etah",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Etah"
+  },
+  {
+    "CityID": 476,
+    "City": "Etawah",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Etawah"
+  },
+  {
+    "CityID": 477,
+    "City": "Faizabad",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Faizabad"
+  },
+  {
+    "CityID": 478,
+    "City": "Farrukhabad",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Farrukhabad"
+  },
+  {
+    "CityID": 479,
+    "City": "Fatehpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Fatehpur"
+  },
+  {
+    "CityID": 480,
+    "City": "Firozabad",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Firozabad"
+  },
+  {
+    "CityID": 481,
+    "City": "Gautam Buddha Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gautam Buddha Nagar"
+  },
+  {
+    "CityID": 483,
+    "City": "Ghazipur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ghazipur"
+  },
+  {
+    "CityID": 484,
+    "City": "Gonda",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gonda"
+  },
+  {
+    "CityID": 485,
+    "City": "Gorkakhpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gorkakhpur"
+  },
+  {
+    "CityID": 486,
+    "City": "Hamirpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hamirpur"
+  },
+  {
+    "CityID": 487,
+    "City": "Hardoi",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hardoi"
+  },
+  {
+    "CityID": 488,
+    "City": "Jalaun",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jalaun"
+  },
+  {
+    "CityID": 489,
+    "City": "Jaunpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jaunpur"
+  },
+  {
+    "CityID": 490,
+    "City": "Jhansi",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jhansi"
+  },
+  {
+    "CityID": 491,
+    "City": "Jyotiba Phule Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jyotiba Phule Nagar"
+  },
+  {
+    "CityID": 492,
+    "City": "Kannauj",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kannauj"
+  },
+  {
+    "CityID": 493,
+    "City": "Kanpur Dehat",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kanpur Dehat"
+  },
+  {
+    "CityID": 494,
+    "City": "Kanpur Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kanpur Nagar"
+  },
+  {
+    "CityID": 495,
+    "City": "Kaushambi",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kaushambi"
+  },
+  {
+    "CityID": 496,
+    "City": "Kushinagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kushinagar"
+  },
+  {
+    "CityID": 497,
+    "City": "Lakhimpur Kheri",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lakhimpur Kheri"
+  },
+  {
+    "CityID": 498,
+    "City": "Lalitpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lalitpur"
+  },
+  {
+    "CityID": 499,
+    "City": "Lucknow",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lucknow"
+  },
+  {
+    "CityID": 500,
+    "City": "Mahamaya Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahamaya Nagar"
+  },
+  {
+    "CityID": 501,
+    "City": "Maharajganj",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Maharajganj"
+  },
+  {
+    "CityID": 502,
+    "City": "Mahoba",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahoba"
+  },
+  {
+    "CityID": 503,
+    "City": "Mainpuri",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mainpuri"
+  },
+  {
+    "CityID": 504,
+    "City": "Mathura",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mathura"
+  },
+  {
+    "CityID": 505,
+    "City": "Mau",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mau"
+  },
+  {
+    "CityID": 506,
+    "City": "Meerut",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Meerut"
+  },
+  {
+    "CityID": 507,
+    "City": "Mirzapur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mirzapur"
+  },
+  {
+    "CityID": 508,
+    "City": "Moradabad",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Moradabad"
+  },
+  {
+    "CityID": 509,
+    "City": "Muzaffarnagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Muzaffarnagar"
+  },
+  {
+    "CityID": 511,
+    "City": "Pilibhit",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pilibhit"
+  },
+  {
+    "CityID": 512,
+    "City": "Pratapgarh",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pratapgarh"
+  },
+  {
+    "CityID": 513,
+    "City": "Rae Bareli",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rae Bareli"
+  },
+  {
+    "CityID": 514,
+    "City": "Rampur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rampur"
+  },
+  {
+    "CityID": 515,
+    "City": "Saharanpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Saharanpur"
+  },
+  {
+    "CityID": 516,
+    "City": "Sant Kabir Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sant Kabir Nagar"
+  },
+  {
+    "CityID": 517,
+    "City": "Sant Ravidas Nagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sant Ravidas Nagar"
+  },
+  {
+    "CityID": 518,
+    "City": "Shahjahanpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shahjahanpur"
+  },
+  {
+    "CityID": 519,
+    "City": "Shravasti",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shravasti"
+  },
+  {
+    "CityID": 520,
+    "City": "Siddharthnagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Siddharthnagar"
+  },
+  {
+    "CityID": 521,
+    "City": "Sitapur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sitapur"
+  },
+  {
+    "CityID": 522,
+    "City": "Sonbhadra",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sonbhadra"
+  },
+  {
+    "CityID": 523,
+    "City": "Sultanpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sultanpur"
+  },
+  {
+    "CityID": 524,
+    "City": "Unnao",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Unnao"
+  },
+  {
+    "CityID": 525,
+    "City": "Varanasi",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Varanasi"
+  },
+  {
+    "CityID": 526,
+    "City": "Chamoli",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chamoli"
+  },
+  {
+    "CityID": 527,
+    "City": "Dehradun",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dehradun"
+  },
+  {
+    "CityID": 528,
+    "City": "Haridwar",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Haridwar"
+  },
+  {
+    "CityID": 529,
+    "City": "Pauri Garhwal",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pauri Garhwal"
+  },
+  {
+    "CityID": 530,
+    "City": "Rudraprayag",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rudraprayag"
+  },
+  {
+    "CityID": 531,
+    "City": "Tehri Garhwal and Uttarkashi ",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tehri Garhwal and Uttarkashi "
+  },
+  {
+    "CityID": 532,
+    "City": "Bankura",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bankura"
+  },
+  {
+    "CityID": 533,
+    "City": "Bardhaman",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bardhaman"
+  },
+  {
+    "CityID": 534,
+    "City": "Birbhum",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Birbhum"
+  },
+  {
+    "CityID": 535,
+    "City": "Cooch Behar",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Cooch Behar"
+  },
+  {
+    "CityID": 536,
+    "City": "Dakshin Dinajpur",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dakshin Dinajpur"
+  },
+  {
+    "CityID": 537,
+    "City": "Darjeeling",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Darjeeling"
+  },
+  {
+    "CityID": 538,
+    "City": "Hooghly",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hooghly"
+  },
+  {
+    "CityID": 539,
+    "City": "Howrah",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Howrah"
+  },
+  {
+    "CityID": 540,
+    "City": "Jalpaiguri",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jalpaiguri"
+  },
+  {
+    "CityID": 541,
+    "City": "Kolkata",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kolkata"
+  },
+  {
+    "CityID": 542,
+    "City": "Malda",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Malda"
+  },
+  {
+    "CityID": 543,
+    "City": "Midnapore East",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Midnapore East"
+  },
+  {
+    "CityID": 544,
+    "City": "Midnapore West",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Midnapore West"
+  },
+  {
+    "CityID": 545,
+    "City": "Murshidabad",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Murshidabad"
+  },
+  {
+    "CityID": 546,
+    "City": "Nadia",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nadia"
+  },
+  {
+    "CityID": 547,
+    "City": "North 24 Parganas",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "North 24 Parganas"
+  },
+  {
+    "CityID": 548,
+    "City": "Purulia",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Purulia"
+  },
+  {
+    "CityID": 549,
+    "City": "South 24 Parganas",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "South 24 Parganas"
+  },
+  {
+    "CityID": 550,
+    "City": "Uttar Dinajpur",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Uttar Dinajpur"
+  },
+  {
+    "CityID": 551,
+    "City": "Delhi",
+    "StateID": 35,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Delhi"
+  },
+  {
+    "CityID": 552,
+    "City": "Alwar",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Alwar"
+  },
+  {
+    "CityID": 553,
+    "City": "Noida",
+    "StateID": 36,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Noida"
+  },
+  {
+    "CityID": 554,
+    "City": "Ghaziabad",
+    "StateID": 36,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ghaziabad"
+  },
+  {
+    "CityID": 555,
+    "City": "Gurgaon",
+    "StateID": 36,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gurgaon"
+  },
+  {
+    "CityID": 556,
+    "City": "Faridabad",
+    "StateID": 36,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Faridabad"
+  },
+  {
+    "CityID": 557,
+    "City": "Kanpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kanpur"
+  },
+  {
+    "CityID": 558,
+    "City": "Vijayawada",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vijayawada"
+  },
+  {
+    "CityID": 559,
+    "City": "Jharkhand",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jharkhand"
+  },
+  {
+    "CityID": 560,
+    "City": "Kottayam",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kottayam"
+  },
+  {
+    "CityID": 561,
+    "City": "Rourkela",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rourkela"
+  },
+  {
+    "CityID": 562,
+    "City": "Thiruvananthapuram",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thiruvananthapuram"
+  },
+  {
+    "CityID": 563,
+    "City": "Asansol ",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Asansol "
+  },
+  {
+    "CityID": 564,
+    "City": "Ernakulam",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ernakulam"
+  },
+  {
+    "CityID": 565,
+    "City": "Thrissur",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thrissur"
+  },
+  {
+    "CityID": 566,
+    "City": "Mangalore",
+    "StateID": 17,
+    "IsActive": "0",
+    "TimeZone": null,
+    "AliasCity": "Mangalore"
+  },
+  {
+    "CityID": 567,
+    "City": "Jamshedpur",
+    "StateID": 15,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jamshedpur"
+  },
+  {
+    "CityID": 568,
+    "City": "Karnataka",
+    "StateID": 16,
+    "IsActive": "0",
+    "TimeZone": null,
+    "AliasCity": "Karnataka"
+  },
+  {
+    "CityID": 569,
+    "City": "Kozhikode",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kozhikode"
+  },
+  {
+    "CityID": 570,
+    "City": "Rajahmundry",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajahmundry"
+  },
+  {
+    "CityID": 571,
+    "City": "Secunderabad",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Secunderabad"
+  },
+  {
+    "CityID": 572,
+    "City": "Siliguri",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Siliguri"
+  },
+  {
+    "CityID": 573,
+    "City": "Hubli",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hubli"
+  },
+  {
+    "CityID": 574,
+    "City": "Bhilai",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhilai"
+  },
+  {
+    "CityID": 575,
+    "City": "Kollam ",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kollam "
+  },
+  {
+    "CityID": 576,
+    "City": "Abohar",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Abohar"
+  },
+  {
+    "CityID": 577,
+    "City": "Nadiad",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nadiad"
+  },
+  {
+    "CityID": 578,
+    "City": "Siruguppa ",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Siruguppa "
+  },
+  {
+    "CityID": 579,
+    "City": "Vapi",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vapi"
+  },
+  {
+    "CityID": 580,
+    "City": "Aluva",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Aluva"
+  },
+  {
+    "CityID": 581,
+    "City": "Thiruvalla",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thiruvalla"
+  },
+  {
+    "CityID": 582,
+    "City": "Muzaffarpur",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Muzaffarpur"
+  },
+  {
+    "CityID": 583,
+    "City": "Phagwara",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Phagwara"
+  },
+  {
+    "CityID": 584,
+    "City": "Kharagpur",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kharagpur"
+  },
+  {
+    "CityID": 585,
+    "City": "Ganganagar",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ganganagar"
+  },
+  {
+    "CityID": 586,
+    "City": "Begusarai",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Begusarai"
+  },
+  {
+    "CityID": 587,
+    "City": "Chapra",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chapra"
+  },
+  {
+    "CityID": 588,
+    "City": "Jagdalpur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jagdalpur"
+  },
+  {
+    "CityID": 589,
+    "City": "Chinnamiram",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chinnamiram"
+  },
+  {
+    "CityID": 590,
+    "City": "Kakinada",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kakinada"
+  },
+  {
+    "CityID": 591,
+    "City": "Kodad",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kodad"
+  },
+  {
+    "CityID": 592,
+    "City": "Mancherial",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mancherial"
+  },
+  {
+    "CityID": 593,
+    "City": "Ongole",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ongole"
+  },
+  {
+    "CityID": 594,
+    "City": "Proddattur",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Proddattur"
+  },
+  {
+    "CityID": 595,
+    "City": "Sanga Reddy",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sanga Reddy"
+  },
+  {
+    "CityID": 596,
+    "City": "Siddipet",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Siddipet"
+  },
+  {
+    "CityID": 597,
+    "City": "Suryapet",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Suryapet"
+  },
+  {
+    "CityID": 598,
+    "City": "Tadipatri",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tadipatri"
+  },
+  {
+    "CityID": 599,
+    "City": "Tandur",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tandur"
+  },
+  {
+    "CityID": 600,
+    "City": "Tanuku",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tanuku"
+  },
+  {
+    "CityID": 601,
+    "City": "Tirupati",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tirupati"
+  },
+  {
+    "CityID": 602,
+    "City": "Tezpur",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tezpur"
+  },
+  {
+    "CityID": 603,
+    "City": "Silchar",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Silchar"
+  },
+  {
+    "CityID": 604,
+    "City": "Gaya",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gaya"
+  },
+  {
+    "CityID": 605,
+    "City": "Hajipur",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hajipur"
+  },
+  {
+    "CityID": 606,
+    "City": "Haldia",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Haldia"
+  },
+  {
+    "CityID": 607,
+    "City": "Piparia",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Piparia"
+  },
+  {
+    "CityID": 608,
+    "City": "Silvassa",
+    "StateID": 8,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Silvassa"
+  },
+  {
+    "CityID": 609,
+    "City": "Ankleshwar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ankleshwar"
+  },
+  {
+    "CityID": 610,
+    "City": "Bhuj",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhuj"
+  },
+  {
+    "CityID": 611,
+    "City": "Halol",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Halol"
+  },
+  {
+    "CityID": 612,
+    "City": "Himatnagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Himatnagar"
+  },
+  {
+    "CityID": 613,
+    "City": "Kadi",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kadi"
+  },
+  {
+    "CityID": 614,
+    "City": "Morvi",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Morvi"
+  },
+  {
+    "CityID": 615,
+    "City": "Mundra",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mundra"
+  },
+  {
+    "CityID": 616,
+    "City": "Veraval",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Veraval"
+  },
+  {
+    "CityID": 617,
+    "City": "Bahadurgarh",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bahadurgarh"
+  },
+  {
+    "CityID": 618,
+    "City": "Kalka",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kalka"
+  },
+  {
+    "CityID": 619,
+    "City": "Palwal",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Palwal"
+  },
+  {
+    "CityID": 620,
+    "City": "Peowa",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Peowa"
+  },
+  {
+    "CityID": 621,
+    "City": "Baddi",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baddi"
+  },
+  {
+    "CityID": 622,
+    "City": "Pontashaib",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pontashaib"
+  },
+  {
+    "CityID": 623,
+    "City": "Mangalore",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mangalore"
+  },
+  {
+    "CityID": 624,
+    "City": "Kannur",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kannur"
+  },
+  {
+    "CityID": 625,
+    "City": "Palakkad",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Palakkad"
+  },
+  {
+    "CityID": 626,
+    "City": "Pathanamthitta",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pathanamthitta"
+  },
+  {
+    "CityID": 627,
+    "City": "Tirur",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tirur"
+  },
+  {
+    "CityID": 628,
+    "City": "Ichalkaranji",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ichalkaranji"
+  },
+  {
+    "CityID": 629,
+    "City": "Karad",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karad"
+  },
+  {
+    "CityID": 630,
+    "City": "Sangamner",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sangamner"
+  },
+  {
+    "CityID": 631,
+    "City": "Behrampur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Behrampur"
+  },
+  {
+    "CityID": 632,
+    "City": "Damanjodi",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Damanjodi"
+  },
+  {
+    "CityID": 633,
+    "City": "Keonjhar",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Keonjhar"
+  },
+  {
+    "CityID": 634,
+    "City": "Fazilka",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Fazilka"
+  },
+  {
+    "CityID": 635,
+    "City": "Khanna",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khanna"
+  },
+  {
+    "CityID": 636,
+    "City": "Nabha",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nabha"
+  },
+  {
+    "CityID": 637,
+    "City": "Pathankot",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pathankot"
+  },
+  {
+    "CityID": 638,
+    "City": "Rajpura",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajpura"
+  },
+  {
+    "CityID": 639,
+    "City": "Ropar",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ropar"
+  },
+  {
+    "CityID": 640,
+    "City": "Beawar",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Beawar"
+  },
+  {
+    "CityID": 641,
+    "City": "Bhilwara",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhilwara"
+  },
+  {
+    "CityID": 642,
+    "City": "Bhiwadi",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhiwadi"
+  },
+  {
+    "CityID": 643,
+    "City": "Chittorgarh",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chittorgarh"
+  },
+  {
+    "CityID": 644,
+    "City": "Dholpur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dholpur"
+  },
+  {
+    "CityID": 645,
+    "City": "Shahpura",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shahpura"
+  },
+  {
+    "CityID": 646,
+    "City": "Ambur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ambur"
+  },
+  {
+    "CityID": 647,
+    "City": "Chidambaram",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chidambaram"
+  },
+  {
+    "CityID": 648,
+    "City": "Hosur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hosur"
+  },
+  {
+    "CityID": 649,
+    "City": "Kumbakonam",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kumbakonam"
+  },
+  {
+    "CityID": 650,
+    "City": "Nagercoil",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nagercoil"
+  },
+  {
+    "CityID": 651,
+    "City": "Pollachi",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pollachi"
+  },
+  {
+    "CityID": 652,
+    "City": "Sriperumbudur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sriperumbudur"
+  },
+  {
+    "CityID": 653,
+    "City": "Tiruppur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tiruppur"
+  },
+  {
+    "CityID": 654,
+    "City": "Gorakhpur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gorakhpur"
+  },
+  {
+    "CityID": 655,
+    "City": "Haldwani",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Haldwani"
+  },
+  {
+    "CityID": 656,
+    "City": "Roorkee",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Roorkee"
+  },
+  {
+    "CityID": 657,
+    "City": "Rudrapur",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rudrapur"
+  },
+  {
+    "CityID": 658,
+    "City": "Durgapur",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Durgapur"
+  },
+  {
+    "CityID": 659,
+    "City": "Gandhidham",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gandhidham"
+  },
+  {
+    "CityID": 660,
+    "City": "Malappuram",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Malappuram"
+  },
+  {
+    "CityID": 661,
+    "City": "Hospet",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hospet"
+  },
+  {
+    "CityID": 662,
+    "City": "Alappuzha",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Alappuzha"
+  },
+  {
+    "CityID": 663,
+    "City": "Alleppey",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Alleppey"
+  },
+  {
+    "CityID": 664,
+    "City": "Baramati",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baramati"
+  },
+  {
+    "CityID": 665,
+    "City": "Malegaon",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Malegaon"
+  },
+  {
+    "CityID": 666,
+    "City": "Navi Mumbai",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Navi Mumbai"
+  },
+  {
+    "CityID": 667,
+    "City": "Balasore",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Balasore"
+  },
+  {
+    "CityID": 668,
+    "City": "Malout",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Malout"
+  },
+  {
+    "CityID": 669,
+    "City": "Hanumangarh",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hanumangarh"
+  },
+  {
+    "CityID": 670,
+    "City": "sri ganganagar",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "sri ganganagar"
+  },
+  {
+    "CityID": 671,
+    "City": "Kashipur",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kashipur"
+  },
+  {
+    "CityID": 672,
+    "City": "Burdwan",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Burdwan"
+  },
+  {
+    "CityID": 673,
+    "City": "Goa",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Goa"
+  },
+  {
+    "CityID": 674,
+    "City": "ABDASA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "ABDASA"
+  },
+  {
+    "CityID": 675,
+    "City": "BAVALA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BAVALA"
+  },
+  {
+    "CityID": 676,
+    "City": "BILIMORA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BILIMORA"
+  },
+  {
+    "CityID": 677,
+    "City": "DHORAJI",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "DHORAJI"
+  },
+  {
+    "CityID": 678,
+    "City": "DHANGARDHA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "DHANGARDHA"
+  },
+  {
+    "CityID": 679,
+    "City": "GANDEVI",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "GANDEVI"
+  },
+  {
+    "CityID": 680,
+    "City": "GODHRA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "GODHRA"
+  },
+  {
+    "CityID": 681,
+    "City": "IDAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "IDAR"
+  },
+  {
+    "CityID": 682,
+    "City": "JAMKANDORANA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "JAMKANDORANA"
+  },
+  {
+    "CityID": 683,
+    "City": "AMALSAD",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "AMALSAD"
+  },
+  {
+    "CityID": 684,
+    "City": "AMBAJI",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "AMBAJI"
+  },
+  {
+    "CityID": 685,
+    "City": "ANJAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "ANJAR"
+  },
+  {
+    "CityID": 686,
+    "City": "BAJWA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BAJWA"
+  },
+  {
+    "CityID": 687,
+    "City": "BARDOLI",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BARDOLI"
+  },
+  {
+    "CityID": 688,
+    "City": "BHACHAU",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BHACHAU"
+  },
+  {
+    "CityID": 689,
+    "City": "DEESA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "DEESA"
+  },
+  {
+    "CityID": 690,
+    "City": "DHANDHUKA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "DHANDHUKA"
+  },
+  {
+    "CityID": 691,
+    "City": "CHIKHLI (GUJ.)",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "CHIKHLI (GUJ.)"
+  },
+  {
+    "CityID": 692,
+    "City": "DWARKA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "DWARKA"
+  },
+  {
+    "CityID": 693,
+    "City": "ADIPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "ADIPUR"
+  },
+  {
+    "CityID": 694,
+    "City": "AHMEDB",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "AHMEDB"
+  },
+  {
+    "CityID": 695,
+    "City": "BETROJ",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BETROJ"
+  },
+  {
+    "CityID": 696,
+    "City": "BHILAD",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BHILAD"
+  },
+  {
+    "CityID": 697,
+    "City": "CHAND KHEDA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "CHAND KHEDA"
+  },
+  {
+    "CityID": 698,
+    "City": "CHOTILA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "CHOTILA"
+  },
+  {
+    "CityID": 699,
+    "City": "JETPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "JETPUR"
+  },
+  {
+    "CityID": 700,
+    "City": "KALOL",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KALOL"
+  },
+  {
+    "CityID": 701,
+    "City": "KAMREJ",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KAMREJ"
+  },
+  {
+    "CityID": 702,
+    "City": "KANDLA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KANDLA"
+  },
+  {
+    "CityID": 703,
+    "City": "KANKREJ",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KANKREJ"
+  },
+  {
+    "CityID": 704,
+    "City": "KAPADWANJ",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KAPADWANJ"
+  },
+  {
+    "CityID": 705,
+    "City": "KESHOD",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KESHOD"
+  },
+  {
+    "CityID": 706,
+    "City": "KHAMBHAT",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KHAMBHAT"
+  },
+  {
+    "CityID": 707,
+    "City": "KHANPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KHANPUR"
+  },
+  {
+    "CityID": 708,
+    "City": "LUNAWADA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "LUNAWADA"
+  },
+  {
+    "CityID": 709,
+    "City": "MAHUVA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "MAHUVA"
+  },
+  {
+    "CityID": 710,
+    "City": "MANDVI",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "MANDVI"
+  },
+  {
+    "CityID": 711,
+    "City": "Modasa",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Modasa"
+  },
+  {
+    "CityID": 712,
+    "City": "NAKHTRANA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NAKHTRANA"
+  },
+  {
+    "CityID": 713,
+    "City": "NALIYA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NALIYA"
+  },
+  {
+    "CityID": 714,
+    "City": "NANAPONDHA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NANAPONDHA"
+  },
+  {
+    "CityID": 715,
+    "City": "NARANPAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NARANPAR"
+  },
+  {
+    "CityID": 716,
+    "City": "NARODA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NARODA"
+  },
+  {
+    "CityID": 717,
+    "City": "PALANPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "PALANPUR"
+  },
+  {
+    "CityID": 718,
+    "City": "PAVIJETPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "PAVIJETPUR"
+  },
+  {
+    "CityID": 719,
+    "City": "RADHANPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "RADHANPUR"
+  },
+  {
+    "CityID": 720,
+    "City": "RAJPIPLA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "RAJPIPLA"
+  },
+  {
+    "CityID": 721,
+    "City": "RANAVAV PORBANDAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "RANAVAV PORBANDAR"
+  },
+  {
+    "CityID": 722,
+    "City": "RAPAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "RAPAR"
+  },
+  {
+    "CityID": 723,
+    "City": "SANAND",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SANAND"
+  },
+  {
+    "CityID": 724,
+    "City": "SANJAN",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SANJAN"
+  },
+  {
+    "CityID": 725,
+    "City": "SANTRAMPURA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SANTRAMPURA"
+  },
+  {
+    "CityID": 726,
+    "City": "SAYAN",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SAYAN"
+  },
+  {
+    "CityID": 727,
+    "City": "SILVASA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SILVASA"
+  },
+  {
+    "CityID": 728,
+    "City": "SILVASSA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SILVASSA"
+  },
+  {
+    "CityID": 729,
+    "City": "SOMNATH JUNAGADHA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SOMNATH JUNAGADHA"
+  },
+  {
+    "CityID": 730,
+    "City": "SURENDERNAGAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SURENDERNAGAR"
+  },
+  {
+    "CityID": 731,
+    "City": "UDWADA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "UDWADA"
+  },
+  {
+    "CityID": 732,
+    "City": "UMBERGAON",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "UMBERGAON"
+  },
+  {
+    "CityID": 733,
+    "City": "VALLABH VIDYANAGAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "VALLABH VIDYANAGAR"
+  },
+  {
+    "CityID": 734,
+    "City": "VALOD",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "VALOD"
+  },
+  {
+    "CityID": 735,
+    "City": "VIJAPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "VIJAPUR"
+  },
+  {
+    "CityID": 736,
+    "City": "VIRPUR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "VIRPUR"
+  },
+  {
+    "CityID": 737,
+    "City": "VISNAGAR",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "VISNAGAR"
+  },
+  {
+    "CityID": 738,
+    "City": "WAGHODIA",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "WAGHODIA"
+  },
+  {
+    "CityID": 739,
+    "City": "Nainital",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nainital"
+  },
+  {
+    "CityID": 740,
+    "City": "Gadwal",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gadwal"
+  },
+  {
+    "CityID": 741,
+    "City": "Mahabub Nagar",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahabub Nagar"
+  },
+  {
+    "CityID": 742,
+    "City": "Mahabub Nagar",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahabub Nagar"
+  },
+  {
+    "CityID": 743,
+    "City": "Bomdila",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bomdila"
+  },
+  {
+    "CityID": 744,
+    "City": "Seppa",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Seppa"
+  },
+  {
+    "CityID": 745,
+    "City": "Ziro",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ziro"
+  },
+  {
+    "CityID": 746,
+    "City": "Daporijo",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Daporijo"
+  },
+  {
+    "CityID": 747,
+    "City": "Along",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Along"
+  },
+  {
+    "CityID": 748,
+    "City": "Pasighat",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pasighat"
+  },
+  {
+    "CityID": 749,
+    "City": "Dibang Valley",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dibang Valley"
+  },
+  {
+    "CityID": 750,
+    "City": "Tezu",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tezu"
+  },
+  {
+    "CityID": 751,
+    "City": "Khonsa",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khonsa"
+  },
+  {
+    "CityID": 752,
+    "City": "Yingkiong",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Yingkiong"
+  },
+  {
+    "CityID": 753,
+    "City": "Roing",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Roing"
+  },
+  {
+    "CityID": 754,
+    "City": "Karbi Anglong",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karbi Anglong"
+  },
+  {
+    "CityID": 755,
+    "City": "Karim Ganj",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karim Ganj"
+  },
+  {
+    "CityID": 756,
+    "City": "Bhojpur",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhojpur"
+  },
+  {
+    "CityID": 757,
+    "City": "Motihari",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Motihari"
+  },
+  {
+    "CityID": 758,
+    "City": "Monghyr",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Monghyr"
+  },
+  {
+    "CityID": 759,
+    "City": "Saharsa",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Saharsa"
+  },
+  {
+    "CityID": 760,
+    "City": "Nalanda",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nalanda"
+  },
+  {
+    "CityID": 761,
+    "City": "Bettiah",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bettiah"
+  },
+  {
+    "CityID": 762,
+    "City": "Rohtas",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rohtas"
+  },
+  {
+    "CityID": 763,
+    "City": "Jahanabad",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jahanabad"
+  },
+  {
+    "CityID": 764,
+    "City": "Aurangabad",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Aurangabad"
+  },
+  {
+    "CityID": 765,
+    "City": "Nawadah",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nawadah"
+  },
+  {
+    "CityID": 766,
+    "City": "Gopal Ganj",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gopal Ganj"
+  },
+  {
+    "CityID": 767,
+    "City": "Siwan",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Siwan"
+  },
+  {
+    "CityID": 768,
+    "City": "Sitamarhi",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sitamarhi"
+  },
+  {
+    "CityID": 769,
+    "City": "Madhubani",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Madhubani"
+  },
+  {
+    "CityID": 770,
+    "City": "Samastipur",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Samastipur"
+  },
+  {
+    "CityID": 771,
+    "City": "Khagaria",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khagaria"
+  },
+  {
+    "CityID": 772,
+    "City": "Kishanganj",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kishanganj"
+  },
+  {
+    "CityID": 773,
+    "City": "Araria",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Araria"
+  },
+  {
+    "CityID": 774,
+    "City": "Katihar",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Katihar"
+  },
+  {
+    "CityID": 775,
+    "City": "Madhepura",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Madhepura"
+  },
+  {
+    "CityID": 776,
+    "City": "Buxar",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Buxar"
+  },
+  {
+    "CityID": 777,
+    "City": "Bhabua",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhabua"
+  },
+  {
+    "CityID": 778,
+    "City": "Jamui",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jamui"
+  },
+  {
+    "CityID": 779,
+    "City": "Supaul",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Supaul"
+  },
+  {
+    "CityID": 780,
+    "City": "Banka",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banka"
+  },
+  {
+    "CityID": 781,
+    "City": "Sheikhpura",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sheikhpura"
+  },
+  {
+    "CityID": 782,
+    "City": "Sheikhpura",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sheikhpura"
+  },
+  {
+    "CityID": 783,
+    "City": "Lakhisarai",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lakhisarai"
+  },
+  {
+    "CityID": 784,
+    "City": "Jahanabad",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jahanabad"
+  },
+  {
+    "CityID": 785,
+    "City": "Janjgir-Champa",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Janjgir-Champa"
+  },
+  {
+    "CityID": 786,
+    "City": "Ambikapur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ambikapur"
+  },
+  {
+    "CityID": 787,
+    "City": "Baikunthpur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baikunthpur"
+  },
+  {
+    "CityID": 788,
+    "City": "Diu",
+    "StateID": 9,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Diu"
+  },
+  {
+    "CityID": 789,
+    "City": "Daman",
+    "StateID": 9,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Daman"
+  },
+  {
+    "CityID": 790,
+    "City": "Margao",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Margao"
+  },
+  {
+    "CityID": 791,
+    "City": "South Goa",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "South Goa"
+  },
+  {
+    "CityID": 792,
+    "City": "Ponda",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ponda"
+  },
+  {
+    "CityID": 793,
+    "City": "South Goa",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "South Goa"
+  },
+  {
+    "CityID": 794,
+    "City": "Margao",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Margao"
+  },
+  {
+    "CityID": 795,
+    "City": "South Goa",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "South Goa"
+  },
+  {
+    "CityID": 796,
+    "City": "Banaskantha",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banaskantha"
+  },
+  {
+    "CityID": 797,
+    "City": "Himat Nagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Himat Nagar"
+  },
+  {
+    "CityID": 798,
+    "City": "Surendra Nagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Surendra Nagar"
+  },
+  {
+    "CityID": 799,
+    "City": "Amreli",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Amreli"
+  },
+  {
+    "CityID": 800,
+    "City": "Panch Mahals",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panch Mahals"
+  },
+  {
+    "CityID": 801,
+    "City": "Gandhi Nagar",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gandhi Nagar"
+  },
+  {
+    "CityID": 802,
+    "City": "Vyara",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vyara"
+  },
+  {
+    "CityID": 803,
+    "City": "Yadgir",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Yadgir"
+  },
+  {
+    "CityID": 804,
+    "City": "Idukki",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Idukki"
+  },
+  {
+    "CityID": 805,
+    "City": "Wayanad",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Wayanad"
+  },
+  {
+    "CityID": 806,
+    "City": "Kasaragod",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kasaragod"
+  },
+  {
+    "CityID": 807,
+    "City": "Idukki",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Idukki"
+  },
+  {
+    "CityID": 808,
+    "City": "Jagadalpur",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jagadalpur"
+  },
+  {
+    "CityID": 809,
+    "City": "Banswara",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banswara"
+  },
+  {
+    "CityID": 810,
+    "City": "Barmer",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Barmer"
+  },
+  {
+    "CityID": 811,
+    "City": "Bundi",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bundi"
+  },
+  {
+    "CityID": 812,
+    "City": "Churu",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Churu"
+  },
+  {
+    "CityID": 813,
+    "City": "Dungarpur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dungarpur"
+  },
+  {
+    "CityID": 814,
+    "City": "Jaisalmer",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jaisalmer"
+  },
+  {
+    "CityID": 815,
+    "City": "Jalore",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jalore"
+  },
+  {
+    "CityID": 816,
+    "City": "Jhalawar",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jhalawar"
+  },
+  {
+    "CityID": 817,
+    "City": "Jhunjhunu",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jhunjhunu"
+  },
+  {
+    "CityID": 818,
+    "City": "Nagaur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nagaur"
+  },
+  {
+    "CityID": 819,
+    "City": "Pali",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pali"
+  },
+  {
+    "CityID": 820,
+    "City": "Sikar",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sikar"
+  },
+  {
+    "CityID": 821,
+    "City": "Sirohi",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sirohi"
+  },
+  {
+    "CityID": 822,
+    "City": "Sawai Madhopur",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sawai Madhopur"
+  },
+  {
+    "CityID": 823,
+    "City": "Tonk",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tonk"
+  },
+  {
+    "CityID": 824,
+    "City": "Baran",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baran"
+  },
+  {
+    "CityID": 825,
+    "City": "Dausa",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dausa"
+  },
+  {
+    "CityID": 826,
+    "City": "Rajsamand",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rajsamand"
+  },
+  {
+    "CityID": 827,
+    "City": "Karauli",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karauli"
+  },
+  {
+    "CityID": 828,
+    "City": "Almora",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Almora"
+  },
+  {
+    "CityID": 829,
+    "City": "Bageshwar",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bageshwar"
+  },
+  {
+    "CityID": 830,
+    "City": "Champawat",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Champawat"
+  },
+  {
+    "CityID": 831,
+    "City": "Pithoragarh",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pithoragarh"
+  },
+  {
+    "CityID": 832,
+    "City": "Udham Singh Nagar",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Udham Singh Nagar"
+  },
+  {
+    "CityID": 833,
+    "City": "Rishikesh",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rishikesh"
+  },
+  {
+    "CityID": 834,
+    "City": "Rishikesh",
+    "StateID": 33,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rishikesh"
+  },
+  {
+    "CityID": 835,
+    "City": "Hapur",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hapur"
+  },
+  {
+    "CityID": 836,
+    "City": "Adilabad",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Adilabad"
+  },
+  {
+    "CityID": 837,
+    "City": "Hyderabad",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hyderabad"
+  },
+  {
+    "CityID": 838,
+    "City": "Karimnagar",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karimnagar"
+  },
+  {
+    "CityID": 839,
+    "City": "Khammam",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khammam"
+  },
+  {
+    "CityID": 840,
+    "City": "Medak",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Medak"
+  },
+  {
+    "CityID": 841,
+    "City": "Nalgonda",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nalgonda"
+  },
+  {
+    "CityID": 842,
+    "City": "Nizamabad",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nizamabad"
+  },
+  {
+    "CityID": 843,
+    "City": "Rangareddy",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rangareddy"
+  },
+  {
+    "CityID": 844,
+    "City": "Warangal",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Warangal"
+  },
+  {
+    "CityID": 845,
+    "City": "Secunderabad",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Secunderabad"
+  },
+  {
+    "CityID": 846,
+    "City": "Sanga Reddy",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sanga Reddy"
+  },
+  {
+    "CityID": 847,
+    "City": "Siddipet",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Siddipet"
+  },
+  {
+    "CityID": 848,
+    "City": "Suryapet",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Suryapet"
+  },
+  {
+    "CityID": 849,
+    "City": "Gadwal",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gadwal"
+  },
+  {
+    "CityID": 850,
+    "City": "Mahabub Nagar",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahabub Nagar"
+  },
+  {
+    "CityID": 851,
+    "City": "Bahadurpura",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bahadurpura"
+  },
+  {
+    "CityID": 852,
+    "City": "Ibrahimpatnam",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ibrahimpatnam"
+  },
+  {
+    "CityID": 853,
+    "City": "Khairatabad",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khairatabad"
+  },
+  {
+    "CityID": 854,
+    "City": "Mehadipatnum",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mehadipatnum"
+  },
+  {
+    "CityID": 855,
+    "City": "Palghar",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Palghar"
+  },
+  {
+    "CityID": 856,
+    "City": "Modinagar",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Modinagar"
+  },
+  {
+    "CityID": 857,
+    "City": "Jagtial",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jagtial"
+  },
+  {
+    "CityID": 858,
+    "City": "Jangaon",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jangaon"
+  },
+  {
+    "CityID": 859,
+    "City": "Mancheryal",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mancheryal"
+  },
+  {
+    "CityID": 860,
+    "City": "Markapur",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Markapur"
+  },
+  {
+    "CityID": 861,
+    "City": "Piduguralla",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Piduguralla"
+  },
+  {
+    "CityID": 862,
+    "City": "Anini",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anini"
+  },
+  {
+    "CityID": 863,
+    "City": "Haflong",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Haflong"
+  },
+  {
+    "CityID": 864,
+    "City": "Haldia",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Haldia"
+  },
+  {
+    "CityID": 865,
+    "City": "Zirakpur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Zirakpur"
+  },
+  {
+    "CityID": 866,
+    "City": "Somireddipalle",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Somireddipalle"
+  },
+  {
+    "CityID": 867,
+    "City": "Rangia",
+    "StateID": 4,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rangia"
+  },
+  {
+    "CityID": 868,
+    "City": "Raxaul",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Raxaul"
+  },
+  {
+    "CityID": 869,
+    "City": "Vaishali",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vaishali"
+  },
+  {
+    "CityID": 870,
+    "City": "Rupaichhari",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rupaichhari"
+  },
+  {
+    "CityID": 871,
+    "City": "Achampet",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Achampet"
+  },
+  {
+    "CityID": 872,
+    "City": "Hathras",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hathras"
+  },
+  {
+    "CityID": 873,
+    "City": "Kasganj",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kasganj"
+  },
+  {
+    "CityID": 874,
+    "City": "Paschimpathri",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Paschimpathri"
+  },
+  {
+    "CityID": 875,
+    "City": "Mahbubabad",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahbubabad"
+  },
+  {
+    "CityID": 876,
+    "City": "Nagarkurnool",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nagarkurnool"
+  },
+  {
+    "CityID": 877,
+    "City": "Sampla",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sampla"
+  },
+  {
+    "CityID": 878,
+    "City": "Dubai",
+    "StateID": 38,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dubai"
+  },
+  {
+    "CityID": 879,
+    "City": "Sharjah",
+    "StateID": 39,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sharjah"
+  },
+  {
+    "CityID": 880,
+    "City": "Abu Dhabi",
+    "StateID": 40,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Abu Dhabi"
+  },
+  {
+    "CityID": 881,
+    "City": "Ajman",
+    "StateID": 41,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ajman"
+  },
+  {
+    "CityID": 882,
+    "City": "Ras Al Khaimah",
+    "StateID": 42,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ras Al Khaimah"
+  },
+  {
+    "CityID": 883,
+    "City": "Fujairah",
+    "StateID": 43,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Fujairah"
+  },
+  {
+    "CityID": 884,
+    "City": "Umm al-Quwain",
+    "StateID": 44,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Umm al-Quwain"
+  },
+  {
+    "CityID": 885,
+    "City": "Abu Dhabi",
+    "StateID": 45,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Abu Dhabi"
+  },
+  {
+    "CityID": 886,
+    "City": "Vishakapatnam",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vishakapatnam"
+  },
+  {
+    "CityID": 887,
+    "City": "Madgaon",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Madgaon"
+  },
+  {
+    "CityID": 888,
+    "City": "Panjim",
+    "StateID": 10,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panjim"
+  },
+  {
+    "CityID": 889,
+    "City": "Borsad",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Borsad"
+  },
+  {
+    "CityID": 890,
+    "City": "Sonepat",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sonepat"
+  },
+  {
+    "CityID": 891,
+    "City": "Ankola",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ankola"
+  },
+  {
+    "CityID": 892,
+    "City": "Alibaug",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Alibaug"
+  },
+  {
+    "CityID": 893,
+    "City": "Khapoli",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khapoli"
+  },
+  {
+    "CityID": 894,
+    "City": "Lonavala",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Lonavala"
+  },
+  {
+    "CityID": 895,
+    "City": "Bhuvaneshwar",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhuvaneshwar"
+  },
+  {
+    "CityID": 896,
+    "City": "Bhatinda",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhatinda"
+  },
+  {
+    "CityID": 897,
+    "City": "Ferozepur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ferozepur"
+  },
+  {
+    "CityID": 898,
+    "City": "Mayiladuthurai",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mayiladuthurai"
+  },
+  {
+    "CityID": 899,
+    "City": "Tanjore",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tanjore"
+  },
+  {
+    "CityID": 900,
+    "City": "NawabGanj",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NawabGanj"
+  },
+  {
+    "CityID": 901,
+    "City": "Vrindavan",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vrindavan"
+  },
+  {
+    "CityID": 902,
+    "City": "Singur",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Singur"
+  },
+  {
+    "CityID": 903,
+    "City": "Kunnamkulam",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kunnamkulam"
+  },
+  {
+    "CityID": 904,
+    "City": "Mahisadal",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahisadal"
+  },
+  {
+    "CityID": 905,
+    "City": "Tiruvallur",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tiruvallur"
+  },
+  {
+    "CityID": 906,
+    "City": "Jhandutta",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jhandutta"
+  },
+  {
+    "CityID": 907,
+    "City": "Kovilpatti",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kovilpatti"
+  },
+  {
+    "CityID": 908,
+    "City": "Mettur",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mettur"
+  },
+  {
+    "CityID": 909,
+    "City": "Khowai",
+    "StateID": 31,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Khowai"
+  },
+  {
+    "CityID": 910,
+    "City": "Palani",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Palani"
+  },
+  {
+    "CityID": 911,
+    "City": "INDORA",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "INDORA"
+  },
+  {
+    "CityID": 912,
+    "City": "Janjehli",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Janjehli"
+  },
+  {
+    "CityID": 913,
+    "City": "Charkhi Dadri",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Charkhi Dadri"
+  },
+  {
+    "CityID": 914,
+    "City": "Banashankari",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banashankari"
+  },
+  {
+    "CityID": 915,
+    "City": "Bangaon",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bangaon"
+  },
+  {
+    "CityID": 916,
+    "City": "Shahpur",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shahpur"
+  },
+  {
+    "CityID": 917,
+    "City": "Swarghat",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Swarghat"
+  },
+  {
+    "CityID": 918,
+    "City": "Tauru",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tauru"
+  },
+  {
+    "CityID": 919,
+    "City": "THALASSERY",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "THALASSERY"
+  },
+  {
+    "CityID": 920,
+    "City": "Rampurhat",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rampurhat"
+  },
+  {
+    "CityID": 921,
+    "City": "Morinda",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Morinda"
+  },
+  {
+    "CityID": 922,
+    "City": "Gharaunda",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gharaunda"
+  },
+  {
+    "CityID": 923,
+    "City": "Gajuwaka",
+    "StateID": 1,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gajuwaka"
+  },
+  {
+    "CityID": 924,
+    "City": "Mathabhanga",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mathabhanga"
+  },
+  {
+    "CityID": 925,
+    "City": "Dheera",
+    "StateID": 13,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dheera"
+  },
+  {
+    "CityID": 926,
+    "City": "Alathur ",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Alathur "
+  },
+  {
+    "CityID": 927,
+    "City": "Radaur",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Radaur"
+  },
+  {
+    "CityID": 928,
+    "City": "Kalanwali",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kalanwali"
+  },
+  {
+    "CityID": 929,
+    "City": "Ladwa",
+    "StateID": 12,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ladwa"
+  },
+  {
+    "CityID": 930,
+    "City": "BELTHANGADY",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BELTHANGADY"
+  },
+  {
+    "CityID": 931,
+    "City": "KODUNGALLUR",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KODUNGALLUR"
+  },
+  {
+    "CityID": 932,
+    "City": "Ballari",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ballari"
+  },
+  {
+    "CityID": 933,
+    "City": "Barasat",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Barasat"
+  },
+  {
+    "CityID": 934,
+    "City": "Belagavi",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Belagavi"
+  },
+  {
+    "CityID": 935,
+    "City": "Budaun",
+    "StateID": 32,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Budaun"
+  },
+  {
+    "CityID": 936,
+    "City": "Carnicobar",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Carnicobar"
+  },
+  {
+    "CityID": 937,
+    "City": "Channapatna",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Channapatna"
+  },
+  {
+    "CityID": 938,
+    "City": "Chikodi",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chikodi"
+  },
+  {
+    "CityID": 939,
+    "City": "Diglipur",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Diglipur"
+  },
+  {
+    "CityID": 940,
+    "City": "Ferrargunj",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ferrargunj"
+  },
+  {
+    "CityID": 941,
+    "City": "Gokak",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Gokak"
+  },
+  {
+    "CityID": 942,
+    "City": "Hut Bay",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Hut Bay"
+  },
+  {
+    "CityID": 943,
+    "City": "Mayabander",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mayabander"
+  },
+  {
+    "CityID": 944,
+    "City": "Nancowrie",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nancowrie"
+  },
+  {
+    "CityID": 945,
+    "City": "North Presidency",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "North Presidency"
+  },
+  {
+    "CityID": 946,
+    "City": "Rangat",
+    "StateID": 2,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Rangat"
+  },
+  {
+    "CityID": 947,
+    "City": "South Presidency",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "South Presidency"
+  },
+  {
+    "CityID": 948,
+    "City": "Tambaram",
+    "StateID": 30,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Tambaram"
+  },
+  {
+    "CityID": 949,
+    "City": "Vijayapura",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vijayapura"
+  },
+  {
+    "CityID": 950,
+    "City": "SOUTH WEST KHASI HILLS",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SOUTH WEST KHASI HILLS"
+  },
+  {
+    "CityID": 951,
+    "City": "BANTWAL",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "BANTWAL"
+  },
+  {
+    "CityID": 952,
+    "City": "CHANCHAL",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "CHANCHAL"
+  },
+  {
+    "CityID": 953,
+    "City": "CHATRA",
+    "StateID": 5,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "CHATRA"
+  },
+  {
+    "CityID": 954,
+    "City": "NIRMAL",
+    "StateID": 37,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "NIRMAL"
+  },
+  {
+    "CityID": 955,
+    "City": "SOUTH WEST GARO HILLS",
+    "StateID": 22,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "SOUTH WEST GARO HILLS"
+  },
+  {
+    "CityID": 956,
+    "City": "PEN",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "PEN"
+  },
+  {
+    "CityID": 957,
+    "City": "Kattakkada",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kattakkada"
+  },
+  {
+    "CityID": 958,
+    "City": "Sikkim",
+    "StateID": 29,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sikkim"
+  },
+  {
+    "CityID": 959,
+    "City": "Banga",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Banga"
+  },
+  {
+    "CityID": 960,
+    "City": "Kotkapura",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kotkapura"
+  },
+  {
+    "CityID": 961,
+    "City": "Maur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Maur"
+  },
+  {
+    "CityID": 962,
+    "City": "Majitha",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Majitha"
+  },
+  {
+    "CityID": 963,
+    "City": "Ahmedgarh",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ahmedgarh"
+  },
+  {
+    "CityID": 964,
+    "City": "Dudhan Sadhan",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dudhan Sadhan"
+  },
+  {
+    "CityID": 965,
+    "City": "Bhawanigarh",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhawanigarh"
+  },
+  {
+    "CityID": 966,
+    "City": "Kalanaur",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kalanaur"
+  },
+  {
+    "CityID": 967,
+    "City": "Dirba",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Dirba"
+  },
+  {
+    "CityID": 968,
+    "City": "Bhikhiwind",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhikhiwind"
+  },
+  {
+    "CityID": 969,
+    "City": "Perambra in Kozhikode",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Perambra in Kozhikode"
+  },
+  {
+    "CityID": 970,
+    "City": "Ranebennur",
+    "StateID": 16,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ranebennur"
+  },
+  {
+    "CityID": 971,
+    "City": "Chhota Udaipur",
+    "StateID": 11,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chhota Udaipur"
+  },
+  {
+    "CityID": 972,
+    "City": "Kalna",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kalna"
+  },
+  {
+    "CityID": 973,
+    "City": "Chhattisgarh",
+    "StateID": 7,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chhattisgarh"
+  },
+  {
+    "CityID": 974,
+    "City": "KHETRI",
+    "StateID": 28,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "KHETRI"
+  },
+  {
+    "CityID": 975,
+    "City": "DIAMOND HARBOUR",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "DIAMOND HARBOUR"
+  },
+  {
+    "CityID": 976,
+    "City": "Thriprayar",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Thriprayar"
+  },
+  {
+    "CityID": 977,
+    "City": "Longding",
+    "StateID": 3,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Longding"
+  },
+  {
+    "CityID": 978,
+    "City": "Iritty",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Iritty"
+  },
+  {
+    "CityID": 979,
+    "City": "Nanmanda",
+    "StateID": 17,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nanmanda"
+  },
+  {
+    "CityID": 980,
+    "City": "Kalyani",
+    "StateID": 34,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Kalyani"
+  },
+  {
+    "CityID": 981,
+    "City": "PANVEL",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "PANVEL"
+  },
+  {
+    "CityID": 982,
+    "City": "Panvel",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Panvel"
+  },
+  {
+    "CityID": 983,
+    "City": "Pen",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Pen"
+  },
+  {
+    "CityID": 984,
+    "City": "Shrirampur",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Shrirampur"
+  },
+  {
+    "CityID": 985,
+    "City": "Vasai",
+    "StateID": 20,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Vasai"
+  },
+  {
+    "CityID": 986,
+    "City": "Baragarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baragarh"
+  },
+  {
+    "CityID": 987,
+    "City": "Bhanjanagar",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bhanjanagar"
+  },
+  {
+    "CityID": 988,
+    "City": "Chandikhol",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Chandikhol"
+  },
+  {
+    "CityID": 989,
+    "City": "Debagarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Debagarh"
+  },
+  {
+    "CityID": 990,
+    "City": "Jajpur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Jajpur"
+  },
+  {
+    "CityID": 991,
+    "City": "Nabarangapur",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Nabarangapur"
+  },
+  {
+    "CityID": 992,
+    "City": "Phulbani",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Phulbani"
+  },
+  {
+    "CityID": 993,
+    "City": "Sundergarh",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Sundergarh"
+  },
+  {
+    "CityID": 994,
+    "City": "Talcher",
+    "StateID": 25,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Talcher"
+  },
+  {
+    "CityID": 995,
+    "City": "Karaikal",
+    "StateID": 26,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Karaikal"
+  },
+  {
+    "CityID": 996,
+    "City": "Mahe",
+    "StateID": 26,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Mahe"
+  },
+  {
+    "CityID": 997,
+    "City": "Yanam",
+    "StateID": 26,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Yanam"
+  },
+  {
+    "CityID": 998,
+    "City": "Ajnala",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Ajnala"
+  },
+  {
+    "CityID": 999,
+    "City": "others1",
+    "StateID": 99,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "others1"
+  },
+  {
+    "CityID": 1000,
+    "City": "Anandpur Sahib",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Anandpur Sahib"
+  },
+  {
+    "CityID": 1001,
+    "City": "Baba Bakala",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baba Bakala"
+  },
+  {
+    "CityID": 1002,
+    "City": "Baghapurana",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Baghapurana"
+  },
+  {
+    "CityID": 1003,
+    "City": "Bassi (Punjab)",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Bassi (Punjab)"
+  },
+  {
+    "CityID": 1004,
+    "City": "Batala",
+    "StateID": 27,
+    "IsActive": "1",
+    "TimeZone": null,
+    "AliasCity": "Batala"
+  }
+]
