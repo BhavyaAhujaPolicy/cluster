@@ -79,7 +79,6 @@ def generate_clusters(df):
         if remaining == 0:
             break
 
-    # Handle leftover rows directly (no merging logic)
     leftover_df = df[~df["assigned"]]
     if not leftover_df.empty:
         cluster = {"MergedFrom": "Leftovers", "LeadCount": len(leftover_df)}
