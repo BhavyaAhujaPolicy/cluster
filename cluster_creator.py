@@ -1,5 +1,6 @@
 from time_analysis import analyze_time_slots
 from itertools import combinations
+from tqdm import tqdm
 
 CLUSTER_FIELDS = [
     ('AgeGroup', 'AgeGroup'),
@@ -10,10 +11,9 @@ CLUSTER_FIELDS = [
     ('Brandname', 'Brand'),
 ]
 
-MIN_CLUSTER_SIZE = 6000
+MIN_CLUSTER_SIZE = 7500
 
 def generate_clusters(df):
-    # ✅ Skip invalid ages only
     if 'Age' in df.columns:
         df = df[(df['Age'] >= 18) & (df['Age'] <= 87)].copy()
 
@@ -27,53 +27,57 @@ def generate_clusters(df):
 
     for level in range(len(available_fields), 0, -1):
         combos = list(combinations(available_fields, level))
-
+        total_groups = 0
         for field_combo in combos:
             groupby_fields = [col for col, _ in field_combo]
-            output_keys = [out for _, out in field_combo]
             sub_df = df[~df["assigned"]].copy()
-
             grouped = sub_df.groupby(groupby_fields)
-
-            for keys, group in grouped:
-                if len(group) >= MIN_CLUSTER_SIZE:
-                    cluster = {}
-                    for i, out_key in enumerate(output_keys):
-                        if out_key == 'City':
-                            if 'CityId' in group.columns:
-                                cities = group['CityId'].dropna().unique()
-                                cluster['City'] = ", ".join(sorted(map(str, cities))) if len(cities) > 0 else ''
+            total_groups += len(grouped)
+        with tqdm(total=total_groups, desc=f"Clustering (level {level})", unit="group") as pbar:
+            for field_combo in combos:
+                groupby_fields = [col for col, _ in field_combo]
+                output_keys = [out for _, out in field_combo]
+                sub_df = df[~df["assigned"]].copy()
+                grouped = sub_df.groupby(groupby_fields)
+                for keys, group in grouped:
+                    if len(group) >= MIN_CLUSTER_SIZE:
+                        cluster = {}
+                        for i, out_key in enumerate(output_keys):
+                            if out_key == 'City':
+                                if 'CityId' in group.columns:
+                                    cities = group['CityId'].dropna().unique()
+                                    cluster['City'] = ", ".join(sorted(map(str, cities))) if len(cities) > 0 else ''
+                                else:
+                                    cluster['City'] = ''
+                            elif out_key == 'Profession':
+                                if 'ProfessionType' in group.columns:
+                                    profs = group['ProfessionType'].dropna().unique()
+                                    cluster['Profession'] = ", ".join(sorted(map(str, profs))) if len(profs) > 0 else ''
+                                else:
+                                    cluster['Profession'] = ''
                             else:
-                                cluster['City'] = ''
-                        elif out_key == 'Profession':
-                            if 'ProfessionType' in group.columns:
-                                profs = group['ProfessionType'].dropna().unique()
-                                cluster['Profession'] = ", ".join(sorted(map(str, profs))) if len(profs) > 0 else ''
-                            else:
-                                cluster['Profession'] = ''
+                                if groupby_fields[i] in group.columns:
+                                    val = group[groupby_fields[i]].dropna().unique()
+                                    cluster[out_key] = ", ".join(sorted(map(str, val))) if len(val) > 0 else ''
+                                else:
+                                    cluster[out_key] = ''
+                        if 'Brandname' in group.columns:
+                            brands = group['Brandname'].dropna().unique()
+                            cluster['Brand'] = ", ".join(sorted(map(str, brands))) if len(brands) > 0 else ''
                         else:
-                            if groupby_fields[i] in group.columns:
-                                val = group[groupby_fields[i]].dropna().unique()
-                                cluster[out_key] = ", ".join(sorted(map(str, val))) if len(val) > 0 else ''
-                            else:
-                                cluster[out_key] = ''
-                    if 'Brandname' in group.columns:
-                        brands = group['Brandname'].dropna().unique()
-                        cluster['Brand'] = ", ".join(sorted(map(str, brands))) if len(brands) > 0 else ''
-                    else:
-                        cluster['Brand'] = ''
-                    cluster["LeadCount"] = len(group)
-                    cluster["PickupPattern"] = analyze_time_slots(group)
-                    # Only one value for AgeGroup and IncomeGroup
-                    if 'AgeGroup' in group.columns:
-                        vals = group['AgeGroup'].dropna().unique()
-                        cluster['AgeGroup'] = ", ".join(sorted(map(str, vals))) if len(vals) > 0 else ''
-                    if 'IncomeGroup' in group.columns:
-                        vals = group['IncomeGroup'].dropna().unique()
-                        cluster['IncomeGroup'] = ", ".join(sorted(map(str, vals))) if len(vals) > 0 else ''
-                    clusters.append(cluster)
-                    df.loc[group.index, "assigned"] = True
-
+                            cluster['Brand'] = ''
+                        cluster["LeadCount"] = len(group)
+                        cluster["PickupPattern"] = analyze_time_slots(group)
+                        # Only one value for AgeGroup and IncomeGroup
+                        if 'AgeGroup' in group.columns:
+                            vals = group['AgeGroup'].dropna().unique()
+                            cluster['AgeGroup'] = ", ".join(sorted(map(str, vals))) if len(vals) > 0 else ''
+                        if 'IncomeGroup' in group.columns:
+                            vals = group['IncomeGroup'].dropna().unique()
+                            cluster['IncomeGroup'] = ", ".join(sorted(map(str, vals))) if len(vals) > 0 else ''
+                        clusters.append(cluster)
+                        df.loc[group.index, "assigned"] = True
+                    pbar.update(1)
         remaining = len(df[~df["assigned"]])
         print(f"✅ Clusters formed with {level} fields: {len(clusters)} | Unassigned rows: {remaining}")
         if remaining == 0:

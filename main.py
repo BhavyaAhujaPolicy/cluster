@@ -12,8 +12,8 @@ def main():
     No prompt after each chunk; background listening only.
     """
     print("\U0001F4CA Generating Micro-Clusters and Time Slot Insights...\n")
-    total_rows = 1310000  # Approximate, for progress bar
-    chunk_size = 100000
+    total_rows = 1320000  
+    chunk_size = 1250000
     dfs = []  # Collect all chunks here
     try:
         for i, df_chunk in enumerate(stream_json_chunks(DATA_PATH, chunk_size=chunk_size, total_rows=total_rows)):

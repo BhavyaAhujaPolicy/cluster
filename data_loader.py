@@ -102,7 +102,7 @@ def preprocess(df):
     df = df.dropna(subset=required)
     return df
 
-def stream_json_chunks(path, chunk_size=100000, total_rows=None):
+def stream_json_chunks(path, chunk_size=1250000, total_rows=None):
     """
     Stream a large JSON file in chunks, yielding preprocessed DataFrames.
     """
