@@ -1,0 +1,5 @@
+pandas
+openpyxl
+bson    
+ijson
+tqdm

@@ -1,6 +1,5 @@
 from time_analysis import analyze_time_slots
 from itertools import combinations
-from collections import defaultdict
 
 CLUSTER_FIELDS = [
     ('AgeGroup', 'AgeGroup'),
@@ -13,11 +12,8 @@ CLUSTER_FIELDS = [
 
 MIN_CLUSTER_SIZE = 6000
 
-def _merge_unique(val1, val2):
-    return ", ".join(sorted(set(val1.split(", ") + val2.split(", "))))
-
 def generate_clusters(df):
-    # ✅ Skip invalid ages
+    # ✅ Skip invalid ages only
     if 'Age' in df.columns:
         df = df[(df['Age'] >= 18) & (df['Age'] <= 87)].copy()
 
@@ -83,23 +79,7 @@ def generate_clusters(df):
         if remaining == 0:
             break
 
-    # 🔁 Merge similar clusters by AgeGroup + IncomeGroup + Profession
-    print("🔄 Merging similar clusters...")
-    seen = defaultdict(list)
-    merged_clusters = []
-    for cluster_list in seen.values():
-        if len(cluster_list) == 1:
-            merged_clusters.append(cluster_list[0])
-            
-        else:
-            base = cluster_list[0].copy()
-            for other in cluster_list[1:]:
-                base["LeadCount"] += other["LeadCount"]
-                base["City"] = _merge_unique(base.get("City", ""), other.get("City", ""))
-                base["Brand"] = _merge_unique(base.get("Brand", ""), other.get("Brand", ""))
-            merged_clusters.append(base)
-
-    # Handle leftover rows
+    # Handle leftover rows directly (no merging logic)
     leftover_df = df[~df["assigned"]]
     if not leftover_df.empty:
         cluster = {"MergedFrom": "Leftovers", "LeadCount": len(leftover_df)}
@@ -119,6 +99,6 @@ def generate_clusters(df):
             brands = leftover_df['Brandname'].dropna().unique()
             cluster['Brand'] = ", ".join(sorted(map(str, brands))) if len(brands) > 0 else ''
         cluster["PickupPattern"] = analyze_time_slots(leftover_df)
-        merged_clusters.append(cluster)
+        clusters.append(cluster)
 
-    return merged_clusters
+    return clusters
