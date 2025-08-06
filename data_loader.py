@@ -4,12 +4,18 @@ from tqdm import tqdm
 from config import DATA_PATH
 from datetime import datetime
 import warnings
+import json
 
 COLUMN_ALIASES = {
     'DayName': 'Day',
     'CallHour': 'Hour',
     'ProfessionType': 'ProfessionType',
 }
+
+# Load city mapping
+with open('data/city.json', 'r', encoding='utf-8') as f:
+    city_data = json.load(f)
+CITY_MAP = {c['CityID']: c['City'] for c in city_data if c.get('CityID') is not None}
 
 def load_data(path):
     """
@@ -41,12 +47,14 @@ def preprocess(df):
         def age_group(age):
             if pd.isnull(age): return None
             # Start at 18: 18-22, 23-27, ...
-            if age < 18:
-                return '<18'
+            if age < 18 or age > 87:
+                return None
             lower = 18 + 5 * ((int(age) - 18) // 5)
             upper = lower + 4
             return f"{lower}-{upper}"
         df['AgeGroup'] = df['Age'].apply(age_group)
+        # Filter out ages <18 or >87
+        df = df[df['AgeGroup'].notnull()]
     else:
         df['Age'] = None
         df['AgeGroup'] = None
@@ -92,6 +100,12 @@ def preprocess(df):
         df['CallDuration'] = df['Talktime']
     else:
         df['CallDuration'] = None
+
+    # Add CityName column
+    if 'CityId' in df.columns:
+        df['CityName'] = df['CityId'].map(CITY_MAP)
+    else:
+        df['CityName'] = None
 
     # Drop rows with missing critical fields
     required = ['AgeGroup', 'Gender', 'Income', 'ProfessionType', 'CityId', 'Talktime', 'Brandname', 'Day', 'Hour', 'PickupRate', 'CallDuration', 'IncomeGroup']

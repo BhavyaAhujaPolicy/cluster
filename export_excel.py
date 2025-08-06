@@ -7,11 +7,12 @@ def export_to_excel(clusters, filename="output_clusters.xlsx"):
         cluster_base = {
             'ClusterIndex': idx,
             'AgeGroup': cluster.get('AgeGroup', ''),
-            'Gender': cluster.get('Gender', ''),
             'IncomeGroup': cluster.get('IncomeGroup', ''),
+            'Gender': cluster.get('Gender', ''),
             'Profession': cluster.get('Profession', ''),
-            'City': cluster.get('City', ''),
             'Brand': cluster.get('Brand', ''),
+            'CityId': cluster.get('CityId', ''),
+            'CityName': cluster.get('CityName', ''),
             'LeadCount': cluster.get('LeadCount', 0),
         }
 
