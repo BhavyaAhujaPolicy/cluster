@@ -3,3 +3,4 @@ openpyxl
 bson    
 ijson
 tqdm
+numpy
