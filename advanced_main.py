@@ -1,4 +1,6 @@
 from data_loader import load_data, preprocess, stream_json_chunks
+from cluster_creator import generate_clusters
+from export_excel import export_to_excel
 from advanced_cluster_creator import advanced_generate_clusters
 from advanced_export_excel import export_advanced_clusters_to_excel, export_comparison_report
 from config import DATA_PATH

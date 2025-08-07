@@ -48,27 +48,6 @@ def analyze_behavioral_patterns(group):
     
     return patterns
 
-def add_timezone_analysis(df):
-    """
-    Add timezone-based analysis for different cities.
-    """
-    # Major city timezone mapping (simplified)
-    timezone_map = {
-        'Mumbai': 'IST',
-        'Delhi': 'IST', 
-        'Bangalore': 'IST',
-        'Chennai': 'IST',
-        'Kolkata': 'IST',
-        'Hyderabad': 'IST',
-        'Pune': 'IST',
-        'Ahmedabad': 'IST',
-        'Jaipur': 'IST',
-        'Lucknow': 'IST'
-    }
-    
-    df['Timezone'] = df['CityName'].map(timezone_map).fillna('IST')
-    return df
-
 def analyze_trends(group, days_back=30):
     """
     Analyze trends in pickup rates and duration over time.
@@ -112,8 +91,6 @@ def advanced_analyze_time_slots(group, pickup_threshold=3, duration_threshold=30
     group = group.copy()
     group['Hour'] = group['Hour'].astype(int)
     
-    # Add timezone analysis
-    group = add_timezone_analysis(group)
     
     # Analyze behavioral patterns
     behavioral_patterns = analyze_behavioral_patterns(group)
