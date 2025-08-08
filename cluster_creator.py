@@ -11,7 +11,7 @@ CLUSTER_FIELDS = [
     ('Brandname', 'Brand'),
 ]
 
-MIN_CLUSTER_SIZE = 6500
+MIN_CLUSTER_SIZE = 6000
 
 def generate_clusters(df):
     if 'Age' in df.columns:

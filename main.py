@@ -8,7 +8,7 @@ import pandas as pd
 def main():
     print("\U0001F4CA Generating Micro-Clusters and Time Slot Insights...\n")
     total_rows = 1320000
-    chunk_size = 100000
+    chunk_size = 500000
     dfs = []
     start_time = time.time()
     load_start = time.time()
